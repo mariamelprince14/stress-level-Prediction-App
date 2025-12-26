@@ -107,15 +107,20 @@
   font-size: 14px;
   font-weight: 600;
   color: #A94442;
-  margin: 0 0 4px 0;
+  margin: 0 0 8px 0;
 }
 
 .errorFields {
   font-family: 'Poppins', sans-serif;
-  font-size: 12px;
-  color: #9E5555;
+  font-size: 13px;
+  color: #A94442;
   margin: 0;
-  line-height: 1.4;
+  line-height: 1.5;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 8px 12px;
+  border-radius: 8px;
+  border-left: 3px solid #A94442;
+  font-weight: 500;
 }
 
 /* Main content */

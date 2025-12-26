@@ -9,6 +9,7 @@ import {
   StressorSelector,
   YesNoToggle,
   ProgressBar,
+  LoadingSpinner,
 } from '../components';
 import { questionsConfig, getInitialAnswers } from '../data/questionsConfig';
 import { isFieldAnswered, validateQuestionnaire } from '../utils/validation';
@@ -447,6 +448,9 @@ const Questionnaire = () => {
           </div>
         </form>
       </main>
+
+      {/* Loading spinner */}
+      {isLoading && <LoadingSpinner message="Analyzing your responses..." />}
     </div>
   );
 };

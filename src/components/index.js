@@ -12,3 +12,4 @@ export { default as YesNoToggle } from './YesNoToggle';
 export { default as SuggestionCard } from './SuggestionCard';
 export { default as ProgressBar } from './ProgressBar';
 export { default as StressGauge } from './StressGauge';
+export { default as LoadingSpinner } from './LoadingSpinner';

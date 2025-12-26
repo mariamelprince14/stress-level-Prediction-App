@@ -1,0 +1,1001 @@
+Age,Gender,Current_status,Field_of_study,Hours_slept,Work_hours,Hobby_hours,Commute_time,Number_of_tasks,Task_difficulty,Social_interaction_hours,Social_interaction_quality,Stressful_event,Stress_type,Home_environment,Stress_scale,Overthinking,Stress_under_pressure
+36+,Female,Student,Computer Science,5.3,1,6.2,30-60 min,6,Easy,6,High,No,None,Satisfied,1,Rarely,Highly stressed
+18-24,Male,Student,Arts,7.1,0,5.7,< 30 min,2,Moderate,6,Medium,Yes,"Personal disappointment, Health-related stress, Academic/work failure or poor performance",Satisfied,9,Often,Slightly stressed
+36+,Female,Employee,Administration,5.1,7,5.5,30-60 min,10,Moderate,4,High,Yes,"Arguing/conflict with someone, Health-related stress, Academic/work failure or poor performance",Satisfied,7,Almost always,Not stressed
+36+,Female,Employee,Other,6.4,7,1.1,1 hour,10,Hard,7,Medium,Yes,"Bad weather, Health-related stress",Satisfied,5,Often,Highly stressed
+25-35,Male,Student,Psychology,7.4,1,4.6,< 30 min,7,Moderate,10,High,No,None,Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Employee,Administration,6.2,9,4.2,1 hour,5,Moderate,9,Low,Yes,Arguing/conflict with someone,Dissatisfied,7,Almost always,Slightly stressed
+18-24,Male,Employee,Customer Service,5.0,7,1.2,30-60 min,6,Hard,4,Medium,No,None,Dissatisfied,5,Almost always,Slightly stressed
+36+,Female,Employee,Administration,7.4,7,2.4,30-60 min,6,Moderate,3,Low,Yes,Financial stress,Satisfied,8,Often,Not stressed
+36+,Female,Employee,Administration,7.5,7,3.8,1 hour,7,Moderate,5,Medium,Yes,"Bad weather, Transportation problem / car issue",Dissatisfied,8,Often,Slightly stressed
+25-35,Female,Student,Law,8.4,1,2.7,< 30 min,5,Moderate,3,Medium,No,None,Dissatisfied,3,Rarely,Not stressed
+18-24,Male,Employee,Healthcare,6.3,9,1.9,30-60 min,7,Hard,7,Medium,No,None,Satisfied,2,Often,Highly stressed
+18-24,Female,Both,Medicine,4.8,11,2.0,1 hour,9,Moderate,3,Medium,Yes,"Financial stress, Health-related stress, Arguing/conflict with someone",Satisfied,7,Never,Not stressed
+18-24,Male,Both,Engineering,4.9,11,0.8,1 hour,9,Moderate,3,Low,Yes,Personal disappointment,Satisfied,4,Often,Slightly stressed
+25-35,Female,Student,Education,8.4,3,5.1,1 hour,4,Easy,2,Medium,Yes,"Arguing/conflict with someone, Bad weather, Academic/work failure or poor performance",Satisfied,8,Rarely,Slightly stressed
+18-24,Male,Employee,Customer Service,6.8,9,1.3,1 hour,6,Easy,1,High,Yes,"Financial stress, Personal disappointment",Satisfied,9,Never,Slightly stressed
+25-35,Male,Employee,Other,6.4,6,6.8,30-60 min,9,Hard,1,Medium,Yes,Arguing/conflict with someone,Satisfied,3,Never,Slightly stressed
+25-35,Female,Student,Education,8.7,0,0.8,30-60 min,6,Easy,4,Medium,No,None,Satisfied,1,Rarely,Highly stressed
+25-35,Female,Student,Medicine,6.6,2,2.5,30-60 min,3,Moderate,4,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,7,Often,Not stressed
+25-35,Male,Student,Computer Science,8.2,2,6.5,< 30 min,6,Hard,1,Medium,No,None,Satisfied,4,Almost always,Highly stressed
+18-24,Female,Employee,Other,6.4,8,4.3,1 hour,10,Easy,7,Medium,No,None,Satisfied,2,Never,Slightly stressed
+25-35,Male,Student,Psychology,7.6,0,2.0,< 30 min,2,Easy,3,Medium,No,None,Satisfied,1,Rarely,Slightly stressed
+25-35,Male,Student,Business,6.0,0,0.5,< 30 min,2,Moderate,8,Medium,Yes,Financial stress,Dissatisfied,9,Never,Slightly stressed
+25-35,Male,Employee,Engineering,7.2,7,1.4,30-60 min,11,Easy,7,Low,No,None,Dissatisfied,5,Almost always,Slightly stressed
+25-35,Male,Student,Education,7.5,0,2.7,30-60 min,7,Easy,3,Medium,Yes,Health-related stress,Satisfied,8,Often,Not stressed
+18-24,Female,Student,Psychology,5.0,2,5.1,< 30 min,3,Moderate,4,High,No,None,Dissatisfied,1,Often,Slightly stressed
+18-24,Female,Employee,Finance,7.5,8,6.4,< 30 min,8,Moderate,9,Medium,Yes,"Personal disappointment, Financial stress",Satisfied,8,Almost always,Highly stressed
+36+,Female,Neither,None,6.4,1,3.5,< 30 min,1,Easy,7,High,Yes,"Financial stress, Transportation problem / car issue, Bad weather",Satisfied,9,Often,Not stressed
+25-35,Female,Employee,Administration,6.6,6,6.4,1 hour,5,Moderate,9,Low,Yes,Bad weather,Dissatisfied,4,Often,Slightly stressed
+18-24,Male,Student,Arts,5.6,3,5.3,< 30 min,4,Hard,6,High,Yes,Health-related stress,Dissatisfied,4,Often,Not stressed
+18-24,Male,Student,Psychology,8.5,3,3.1,30-60 min,2,Moderate,7,Medium,Yes,"Personal disappointment, Arguing/conflict with someone",Satisfied,6,Almost always,Slightly stressed
+36+,Male,Employee,Customer Service,6.8,9,3.0,1 hour,11,Easy,7,High,Yes,Bad weather,Satisfied,7,Almost always,Slightly stressed
+36+,Male,Both,Psychology,6.4,9,5.7,< 30 min,9,Hard,6,Low,Yes,"Bad weather, Financial stress, Transportation problem / car issue",Satisfied,3,Often,Highly stressed
+18-24,Male,Neither,None,8.3,0,2.6,< 30 min,3,Hard,5,High,Yes,Arguing/conflict with someone,Satisfied,3,Rarely,Slightly stressed
+25-35,Female,Student,Psychology,8.6,1,1.2,30-60 min,7,Hard,3,Medium,Yes,"Financial stress, Bad weather, Academic/work failure or poor performance",Satisfied,6,Often,Slightly stressed
+25-35,Female,Student,Biology,6.0,3,2.6,30-60 min,3,Easy,8,Medium,Yes,"Academic/work failure or poor performance, Health-related stress, Arguing/conflict with someone",Dissatisfied,7,Rarely,Slightly stressed
+18-24,Female,Student,Engineering,8.1,3,4.3,< 30 min,3,Hard,3,High,No,None,Satisfied,5,Never,Not stressed
+18-24,Female,Employee,Teaching,6.7,7,0.7,30-60 min,8,Easy,8,Low,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,4,Often,Slightly stressed
+18-24,Female,Employee,Engineering,7.2,7,1.6,30-60 min,8,Easy,8,Medium,Yes,Academic/work failure or poor performance,Satisfied,3,Rarely,Highly stressed
+36+,Female,Student,Engineering,7.7,2,2.3,< 30 min,4,Moderate,10,Medium,Yes,Transportation problem / car issue,Satisfied,6,Never,Slightly stressed
+18-24,Female,Employee,Administration,7.3,8,1.1,< 30 min,10,Moderate,3,Low,Yes,"Transportation problem / car issue, Health-related stress",Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Student,Law,6.0,0,2.5,< 30 min,6,Hard,3,High,No,None,Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Both,Engineering,6.2,8,6.0,1 hour,14,Easy,3,Medium,No,None,Satisfied,1,Often,Not stressed
+25-35,Male,Both,Arts,6.9,11,6.8,> 2 hours,13,Easy,2,Medium,No,None,Satisfied,4,Often,Slightly stressed
+<18,Female,Student,Medicine,8.9,1,0.9,1 hour,4,Easy,7,Low,Yes,"Personal disappointment, Financial stress",Satisfied,7,Almost always,Highly stressed
+25-35,Female,Student,Business,6.3,1,2.4,30-60 min,2,Easy,10,Low,Yes,Financial stress,Satisfied,4,Rarely,Highly stressed
+36+,Male,Both,Biology,6.4,8,4.2,< 30 min,13,Easy,8,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Male,Student,Law,8.1,3,6.0,30-60 min,4,Hard,3,High,Yes,Health-related stress,Satisfied,5,Rarely,Slightly stressed
+18-24,Male,Employee,Engineering,6.6,6,4.6,1 hour,10,Easy,9,Low,Yes,"Arguing/conflict with someone, Bad weather, Financial stress",Satisfied,7,Rarely,Highly stressed
+36+,Male,Student,Law,7.7,1,3.9,30-60 min,6,Easy,5,High,Yes,"Health-related stress, Financial stress",Satisfied,6,Often,Slightly stressed
+<18,Male,Both,Biology,5.8,10,6.8,< 30 min,11,Easy,8,Medium,Yes,"Transportation problem / car issue, Bad weather, Health-related stress",Satisfied,7,Often,Highly stressed
+18-24,Female,Student,Law,7.3,0,1.9,< 30 min,2,Easy,4,Medium,No,None,Satisfied,4,Often,Slightly stressed
+25-35,Female,Student,Business,8.3,2,3.2,1 hour,3,Moderate,9,Medium,Yes,Financial stress,Dissatisfied,7,Rarely,Slightly stressed
+25-35,Female,Student,Computer Science,6.2,2,5.9,30-60 min,2,Hard,10,Medium,Yes,Personal disappointment,Dissatisfied,7,Rarely,Slightly stressed
+25-35,Male,Neither,None,7.9,1,1.1,30-60 min,2,Hard,1,Low,No,None,Satisfied,5,Often,Slightly stressed
+18-24,Male,Student,Biology,7.7,3,4.2,30-60 min,2,Hard,7,Medium,Yes,"Financial stress, Arguing/conflict with someone",Satisfied,6,Never,Slightly stressed
+18-24,Female,Student,Arts,7.8,3,2.1,1 hour,5,Moderate,7,Medium,No,None,Satisfied,1,Never,Slightly stressed
+18-24,Female,Employee,Teaching,7.1,9,1.8,1 hour,5,Moderate,7,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,7,Rarely,Not stressed
+18-24,Male,Employee,Engineering,5.1,7,3.3,30-60 min,8,Moderate,5,Low,Yes,"Arguing/conflict with someone, Financial stress, Bad weather",Satisfied,8,Rarely,Slightly stressed
+25-35,Female,Student,Business,8.3,3,2.9,< 30 min,3,Easy,9,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Female,Employee,Administration,6.1,7,1.0,< 30 min,7,Moderate,1,Low,Yes,"Transportation problem / car issue, Bad weather, Arguing/conflict with someone",Dissatisfied,4,Often,Highly stressed
+25-35,Female,Employee,Administration,7.8,8,1.7,30-60 min,10,Easy,1,High,Yes,"Transportation problem / car issue, Financial stress, Health-related stress",Satisfied,6,Often,Highly stressed
+25-35,Female,Student,Business,8.0,3,2.2,1 hour,3,Moderate,9,Medium,Yes,"Health-related stress, Personal disappointment",Dissatisfied,8,Rarely,Highly stressed
+18-24,Female,Employee,Other,6.0,9,0.7,30-60 min,7,Easy,9,High,No,None,Satisfied,5,Rarely,Slightly stressed
+25-35,Female,Both,Medicine,5.5,11,1.4,30-60 min,11,Easy,9,High,Yes,"Financial stress, Personal disappointment",Satisfied,3,Rarely,Not stressed
+25-35,Female,Student,Education,8.5,1,1.4,< 30 min,5,Easy,9,Low,No,None,Dissatisfied,3,Almost always,Slightly stressed
+18-24,Male,Both,Psychology,4.0,10,3.2,1 hour,9,Moderate,3,Medium,No,None,Dissatisfied,5,Often,Slightly stressed
+18-24,Male,Employee,Customer Service,6.2,6,5.1,1 hour,10,Moderate,5,High,No,None,Satisfied,3,Never,Highly stressed
+18-24,Male,Student,Psychology,8.2,0,4.7,< 30 min,7,Moderate,10,Low,Yes,Bad weather,Satisfied,8,Rarely,Slightly stressed
+25-35,Male,Employee,Administration,6.5,7,5.9,> 2 hours,5,Easy,6,Medium,No,None,Satisfied,1,Almost always,Slightly stressed
+18-24,Female,Employee,Finance,7.7,7,4.9,30-60 min,6,Moderate,10,Medium,Yes,"Bad weather, Personal disappointment",Satisfied,6,Often,Highly stressed
+25-35,Male,Employee,Customer Service,7.3,8,4.3,> 2 hours,7,Hard,6,Medium,Yes,"Personal disappointment, Financial stress, Arguing/conflict with someone",Satisfied,4,Often,Slightly stressed
+18-24,Male,Employee,IT,7.1,9,2.9,30-60 min,8,Moderate,9,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+25-35,Male,Student,Business,7.7,1,3.3,< 30 min,5,Easy,2,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Satisfied,6,Often,Highly stressed
+25-35,Male,Employee,Customer Service,5.3,9,4.6,> 2 hours,5,Moderate,2,Medium,No,None,Satisfied,5,Rarely,Slightly stressed
+36+,Female,Employee,Teaching,5.6,8,1.8,30-60 min,10,Moderate,6,High,Yes,Personal disappointment,Satisfied,3,Almost always,Slightly stressed
+25-35,Male,Student,Arts,5.1,0,6.4,< 30 min,7,Moderate,9,High,Yes,"Bad weather, Academic/work failure or poor performance, Health-related stress",Satisfied,5,Rarely,Highly stressed
+<18,Male,Student,Biology,7.0,1,5.5,30-60 min,5,Easy,2,Medium,Yes,"Personal disappointment, Transportation problem / car issue",Satisfied,9,Often,Highly stressed
+36+,Male,Student,Engineering,8.5,1,3.3,30-60 min,7,Moderate,7,Low,No,None,Satisfied,1,Rarely,Not stressed
+25-35,Male,Student,Medicine,8.5,0,5.2,< 30 min,6,Moderate,1,Medium,Yes,"Financial stress, Arguing/conflict with someone, Transportation problem / car issue",Satisfied,6,Never,Slightly stressed
+<18,Male,Neither,None,7.7,2,2.6,< 30 min,2,Easy,10,Medium,No,None,Satisfied,4,Rarely,Slightly stressed
+36+,Male,Student,Arts,9.0,2,2.5,< 30 min,2,Easy,2,Low,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Female,Employee,Other,6.6,6,6.2,1 hour,9,Moderate,9,High,Yes,Transportation problem / car issue,Dissatisfied,4,Often,Slightly stressed
+25-35,Male,Student,Medicine,7.7,0,4.1,30-60 min,2,Easy,4,High,Yes,Personal disappointment,Satisfied,4,Often,Slightly stressed
+36+,Male,Both,Arts,5.7,9,6.0,< 30 min,8,Easy,7,Medium,No,None,Satisfied,1,Rarely,Not stressed
+<18,Female,Student,Business,7.4,0,3.9,< 30 min,6,Easy,10,Low,No,None,Dissatisfied,1,Often,Not stressed
+18-24,Female,Student,Law,8.0,2,4.7,1 hour,7,Easy,4,Medium,No,None,Satisfied,5,Rarely,Slightly stressed
+25-35,Female,Neither,None,6.4,1,3.5,> 2 hours,4,Easy,1,High,Yes,"Health-related stress, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,3,Almost always,Not stressed
+18-24,Female,Student,Biology,8.7,3,2.9,< 30 min,7,Easy,8,Medium,No,None,Dissatisfied,2,Often,Highly stressed
+18-24,Male,Employee,Teaching,5.3,9,5.1,30-60 min,9,Easy,1,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment, Transportation problem / car issue",Dissatisfied,6,Often,Highly stressed
+18-24,Male,Student,Computer Science,6.5,2,2.6,< 30 min,2,Moderate,2,Low,Yes,"Academic/work failure or poor performance, Financial stress",Dissatisfied,4,Often,Slightly stressed
+25-35,Female,Student,Arts,5.9,3,2.4,1 hour,7,Moderate,3,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,3,Almost always,Highly stressed
+18-24,Male,Employee,Freelancing,7.6,7,5.3,> 2 hours,7,Moderate,6,Medium,No,None,Dissatisfied,4,Often,Not stressed
+18-24,Female,Student,Medicine,5.1,2,1.4,< 30 min,7,Moderate,1,Low,No,None,Satisfied,4,Rarely,Not stressed
+18-24,Female,Employee,Teaching,7.8,9,3.8,1 hour,11,Hard,4,Low,No,None,Satisfied,5,Never,Not stressed
+18-24,Male,Employee,Engineering,7.6,6,1.9,< 30 min,11,Hard,4,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment, Bad weather",Satisfied,7,Rarely,Highly stressed
+18-24,Female,Both,Administration,5.0,9,1.7,30-60 min,14,Easy,3,Low,No,None,Satisfied,1,Almost always,Not stressed
+25-35,Female,Student,Engineering,6.8,0,2.6,< 30 min,7,Moderate,2,High,Yes,Health-related stress,Satisfied,5,Rarely,Highly stressed
+25-35,Female,Both,Engineering,6.6,9,6.2,30-60 min,11,Easy,7,Medium,No,None,Dissatisfied,5,Rarely,Slightly stressed
+<18,Female,Student,Engineering,5.7,3,1.1,1 hour,6,Hard,10,High,No,None,Dissatisfied,2,Almost always,Slightly stressed
+36+,Female,Both,Law,4.1,11,1.5,30-60 min,14,Easy,1,Medium,Yes,Bad weather,Satisfied,8,Almost always,Slightly stressed
+18-24,Female,Both,Customer Service,6.8,9,1.9,1 hour,10,Moderate,8,Medium,Yes,"Academic/work failure or poor performance, Bad weather",Satisfied,9,Almost always,Highly stressed
+25-35,Male,Both,Medicine,5.5,8,4.3,1 hour,14,Moderate,1,High,Yes,Bad weather,Satisfied,8,Rarely,Slightly stressed
+25-35,Female,Student,Arts,7.8,1,1.0,< 30 min,3,Moderate,3,Medium,Yes,Bad weather,Dissatisfied,4,Almost always,Highly stressed
+18-24,Female,Student,Engineering,5.4,1,6.1,< 30 min,4,Easy,4,Medium,No,None,Satisfied,4,Almost always,Highly stressed
+18-24,Female,Student,Psychology,6.1,0,6.0,> 2 hours,6,Easy,8,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Arguing/conflict with someone",Satisfied,4,Often,Slightly stressed
+36+,Male,Student,Engineering,8.4,0,2.5,< 30 min,2,Easy,6,Medium,No,None,Satisfied,4,Often,Highly stressed
+18-24,Male,Student,Business,8.2,0,1.3,1 hour,3,Hard,3,Medium,No,None,Satisfied,1,Rarely,Slightly stressed
+<18,Female,Employee,Administration,7.5,7,5.4,> 2 hours,5,Easy,2,High,Yes,Arguing/conflict with someone,Satisfied,6,Often,Slightly stressed
+25-35,Female,Employee,Healthcare,5.4,9,5.1,< 30 min,7,Moderate,2,Medium,Yes,"Health-related stress, Personal disappointment, Financial stress",Dissatisfied,5,Rarely,Slightly stressed
+18-24,Female,Both,Biology,5.9,9,3.9,30-60 min,8,Moderate,6,Medium,Yes,Bad weather,Satisfied,8,Rarely,Highly stressed
+18-24,Female,Student,Medicine,6.4,3,6.1,30-60 min,3,Moderate,9,Medium,Yes,"Arguing/conflict with someone, Personal disappointment, Transportation problem / car issue",Dissatisfied,9,Often,Highly stressed
+<18,Female,Student,Medicine,5.5,2,6.5,1 hour,6,Moderate,8,Low,No,None,Satisfied,5,Often,Slightly stressed
+25-35,Female,Both,Medicine,5.9,8,2.4,> 2 hours,9,Easy,8,Medium,Yes,"Transportation problem / car issue, Personal disappointment, Financial stress",Satisfied,3,Never,Slightly stressed
+25-35,Female,Neither,None,8.9,0,6.9,1 hour,2,Moderate,2,High,Yes,"Personal disappointment, Academic/work failure or poor performance",Satisfied,3,Rarely,Slightly stressed
+25-35,Male,Employee,Healthcare,8.0,8,3.6,30-60 min,8,Moderate,6,Medium,No,None,Dissatisfied,5,Often,Slightly stressed
+36+,Female,Student,Business,5.5,0,0.5,< 30 min,6,Hard,9,Medium,No,None,Dissatisfied,2,Almost always,Not stressed
+18-24,Male,Employee,Engineering,7.1,9,2.3,30-60 min,7,Moderate,3,High,No,None,Dissatisfied,1,Often,Highly stressed
+18-24,Female,Employee,Engineering,6.0,7,4.4,1 hour,8,Moderate,5,Medium,Yes,"Transportation problem / car issue, Personal disappointment, Academic/work failure or poor performance",Satisfied,8,Rarely,Highly stressed
+<18,Female,Both,Law,5.5,10,6.1,> 2 hours,14,Moderate,10,Low,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone, Financial stress",Dissatisfied,9,Often,Slightly stressed
+18-24,Male,Student,Law,7.5,2,3.9,< 30 min,3,Hard,9,Low,No,None,Dissatisfied,5,Rarely,Highly stressed
+<18,Female,Employee,Other,7.8,6,1.6,1 hour,9,Hard,4,Medium,Yes,"Personal disappointment, Financial stress",Satisfied,8,Rarely,Slightly stressed
+18-24,Female,Student,Engineering,5.6,3,5.0,30-60 min,7,Moderate,5,High,Yes,Financial stress,Satisfied,8,Almost always,Slightly stressed
+18-24,Female,Employee,Finance,5.6,9,4.3,30-60 min,6,Easy,4,Medium,No,None,Satisfied,5,Often,Highly stressed
+18-24,Male,Neither,None,6.9,0,1.8,1 hour,1,Hard,7,High,Yes,"Personal disappointment, Health-related stress",Satisfied,8,Rarely,Slightly stressed
+18-24,Male,Student,Law,6.7,3,5.1,< 30 min,2,Moderate,9,Medium,No,None,Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Employee,Healthcare,7.8,6,6.9,1 hour,6,Easy,4,Medium,No,None,Dissatisfied,5,Never,Highly stressed
+18-24,Male,Student,Psychology,5.9,0,5.6,< 30 min,2,Moderate,4,Medium,Yes,Personal disappointment,Satisfied,5,Often,Slightly stressed
+18-24,Male,Employee,Engineering,6.3,9,4.9,30-60 min,7,Moderate,2,Medium,Yes,Health-related stress,Satisfied,5,Never,Slightly stressed
+18-24,Female,Student,Arts,6.8,2,6.2,30-60 min,7,Easy,1,High,Yes,"Personal disappointment, Transportation problem / car issue, Arguing/conflict with someone",Dissatisfied,5,Often,Slightly stressed
+25-35,Male,Student,Law,5.4,0,4.2,1 hour,4,Moderate,2,High,No,None,Dissatisfied,1,Rarely,Slightly stressed
+36+,Male,Employee,Freelancing,5.0,7,1.1,1 hour,11,Moderate,6,Medium,No,None,Satisfied,5,Never,Not stressed
+25-35,Male,Employee,Teaching,7.4,8,4.5,< 30 min,10,Easy,6,Medium,Yes,Health-related stress,Satisfied,6,Never,Slightly stressed
+25-35,Female,Employee,Freelancing,7.9,6,6.6,30-60 min,9,Easy,9,Medium,Yes,Personal disappointment,Satisfied,4,Almost always,Slightly stressed
+18-24,Female,Student,Law,7.4,1,2.1,> 2 hours,4,Moderate,5,High,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Health-related stress",Satisfied,5,Often,Slightly stressed
+18-24,Female,Student,Business,5.3,2,1.8,> 2 hours,3,Hard,7,Medium,Yes,"Bad weather, Transportation problem / car issue, Academic/work failure or poor performance",Satisfied,7,Often,Slightly stressed
+25-35,Male,Employee,Healthcare,6.3,8,3.9,30-60 min,7,Moderate,6,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Bad weather",Satisfied,9,Rarely,Slightly stressed
+36+,Female,Both,Other,4.9,9,3.4,30-60 min,14,Hard,3,Medium,No,None,Satisfied,3,Almost always,Slightly stressed
+18-24,Male,Student,Biology,5.7,3,2.3,30-60 min,4,Hard,2,Low,Yes,"Financial stress, Transportation problem / car issue",Dissatisfied,8,Never,Slightly stressed
+18-24,Female,Employee,Engineering,5.1,8,6.0,> 2 hours,9,Moderate,2,Low,No,None,Satisfied,1,Often,Highly stressed
+<18,Female,Employee,Administration,5.1,6,3.3,30-60 min,8,Moderate,7,Low,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,4,Rarely,Highly stressed
+25-35,Female,Student,Medicine,5.4,3,0.7,< 30 min,4,Easy,8,Low,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,4,Often,Slightly stressed
+36+,Male,Both,Customer Service,6.3,10,6.0,< 30 min,13,Easy,8,Low,Yes,"Bad weather, Transportation problem / car issue, Health-related stress",Dissatisfied,9,Rarely,Highly stressed
+18-24,Male,Student,Business,6.1,2,3.0,< 30 min,2,Hard,7,High,No,None,Satisfied,1,Often,Highly stressed
+36+,Male,Employee,Freelancing,5.1,9,4.9,> 2 hours,7,Moderate,7,Low,No,None,Satisfied,5,Almost always,Slightly stressed
+36+,Male,Employee,Administration,5.3,9,3.8,> 2 hours,6,Easy,10,High,No,None,Satisfied,2,Often,Highly stressed
+18-24,Female,Employee,Healthcare,7.3,9,6.6,1 hour,5,Hard,2,High,No,None,Dissatisfied,3,Often,Slightly stressed
+18-24,Male,Employee,Teaching,5.2,8,3.7,< 30 min,10,Easy,6,High,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,5,Never,Highly stressed
+36+,Female,Student,Engineering,8.3,3,5.8,< 30 min,5,Hard,7,High,Yes,Financial stress,Dissatisfied,4,Often,Highly stressed
+36+,Female,Employee,Teaching,6.3,9,6.8,< 30 min,5,Moderate,6,High,Yes,Financial stress,Satisfied,3,Often,Slightly stressed
+18-24,Female,Student,Biology,8.6,2,2.1,30-60 min,7,Moderate,1,High,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone, Transportation problem / car issue",Satisfied,7,Almost always,Slightly stressed
+25-35,Female,Student,Medicine,5.5,0,1.7,1 hour,4,Easy,4,Low,Yes,Financial stress,Satisfied,4,Often,Not stressed
+18-24,Male,Student,Medicine,6.8,3,4.6,< 30 min,4,Moderate,9,Low,No,None,Satisfied,3,Never,Slightly stressed
+<18,Male,Both,Customer Service,4.6,8,1.5,1 hour,10,Hard,2,High,No,None,Satisfied,5,Never,Slightly stressed
+18-24,Female,Student,Business,6.2,2,4.4,1 hour,5,Easy,9,Medium,No,None,Satisfied,4,Often,Highly stressed
+18-24,Male,Both,Engineering,5.6,9,0.6,1 hour,8,Hard,4,High,Yes,"Bad weather, Personal disappointment",Dissatisfied,4,Almost always,Not stressed
+18-24,Female,Student,Biology,8.7,0,0.8,1 hour,5,Easy,9,High,Yes,Academic/work failure or poor performance,Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Employee,Administration,5.4,8,3.4,30-60 min,7,Moderate,5,High,Yes,"Academic/work failure or poor performance, Personal disappointment, Arguing/conflict with someone",Satisfied,4,Rarely,Slightly stressed
+25-35,Male,Employee,Other,5.2,6,2.3,30-60 min,7,Hard,10,High,Yes,Personal disappointment,Dissatisfied,7,Rarely,Not stressed
+18-24,Female,Student,Arts,7.6,2,4.3,< 30 min,7,Easy,1,Medium,No,None,Dissatisfied,2,Never,Not stressed
+25-35,Male,Both,IT,5.1,10,4.7,1 hour,10,Moderate,6,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,3,Never,Slightly stressed
+18-24,Female,Student,Arts,5.3,2,3.3,< 30 min,6,Easy,8,Medium,No,None,Satisfied,4,Rarely,Slightly stressed
+18-24,Male,Student,Education,7.8,1,2.1,< 30 min,5,Hard,10,Medium,No,None,Satisfied,3,Almost always,Not stressed
+25-35,Male,Both,Law,6.7,10,0.5,1 hour,14,Moderate,1,Medium,Yes,"Financial stress, Health-related stress, Transportation problem / car issue",Satisfied,6,Often,Highly stressed
+18-24,Female,Employee,IT,6.8,8,5.3,1 hour,11,Moderate,4,Low,Yes,"Transportation problem / car issue, Bad weather",Dissatisfied,8,Almost always,Slightly stressed
+18-24,Male,Student,Biology,8.5,0,2.2,30-60 min,2,Easy,9,Medium,No,None,Dissatisfied,3,Rarely,Slightly stressed
+25-35,Male,Both,Teaching,5.0,8,1.9,30-60 min,9,Moderate,5,Medium,No,None,Satisfied,5,Often,Slightly stressed
+25-35,Male,Employee,Teaching,6.2,9,5.5,< 30 min,8,Easy,3,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+25-35,Male,Employee,IT,7.8,8,5.5,1 hour,7,Moderate,2,Medium,No,None,Satisfied,3,Often,Slightly stressed
+25-35,Male,Employee,Freelancing,6.0,8,1.3,< 30 min,11,Moderate,3,High,Yes,"Bad weather, Financial stress, Arguing/conflict with someone",Satisfied,5,Often,Not stressed
+25-35,Female,Student,Psychology,5.3,2,4.3,< 30 min,5,Easy,5,High,Yes,"Arguing/conflict with someone, Health-related stress",Satisfied,3,Never,Slightly stressed
+25-35,Female,Student,Medicine,9.0,3,1.6,< 30 min,3,Easy,10,Medium,Yes,Arguing/conflict with someone,Dissatisfied,7,Rarely,Slightly stressed
+36+,Female,Employee,Teaching,7.1,8,1.9,1 hour,6,Hard,5,Medium,Yes,Bad weather,Dissatisfied,6,Often,Slightly stressed
+18-24,Female,Student,Medicine,6.9,2,6.2,> 2 hours,4,Easy,10,Low,No,None,Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Student,Biology,5.2,3,4.5,30-60 min,6,Moderate,1,High,Yes,"Personal disappointment, Health-related stress",Dissatisfied,5,Never,Highly stressed
+18-24,Female,Neither,None,8.1,1,1.9,30-60 min,4,Easy,7,High,Yes,Personal disappointment,Satisfied,7,Almost always,Highly stressed
+18-24,Male,Student,Engineering,8.8,3,3.0,< 30 min,4,Hard,1,High,No,None,Satisfied,1,Rarely,Not stressed
+25-35,Female,Employee,Other,7.1,8,5.3,< 30 min,6,Easy,5,Medium,Yes,"Transportation problem / car issue, Bad weather, Health-related stress",Satisfied,5,Often,Highly stressed
+25-35,Female,Student,Education,8.1,3,6.9,< 30 min,4,Moderate,3,Low,Yes,"Financial stress, Bad weather",Satisfied,8,Often,Highly stressed
+25-35,Male,Student,Engineering,7.2,1,3.3,1 hour,4,Easy,2,Medium,Yes,"Transportation problem / car issue, Arguing/conflict with someone",Satisfied,4,Rarely,Slightly stressed
+18-24,Female,Employee,Teaching,7.1,8,5.1,30-60 min,5,Moderate,8,Medium,No,None,Satisfied,2,Rarely,Not stressed
+25-35,Female,Both,Engineering,5.9,8,1.6,1 hour,9,Moderate,8,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Satisfied,9,Rarely,Slightly stressed
+18-24,Female,Both,Medicine,5.6,11,4.2,1 hour,12,Moderate,4,Medium,Yes,"Financial stress, Academic/work failure or poor performance, Bad weather",Satisfied,5,Rarely,Not stressed
+25-35,Female,Student,Medicine,6.1,1,6.6,1 hour,4,Easy,5,Low,No,None,Satisfied,4,Often,Highly stressed
+18-24,Female,Student,Business,7.2,2,2.4,< 30 min,7,Moderate,7,High,Yes,"Health-related stress, Bad weather, Financial stress",Satisfied,7,Often,Slightly stressed
+<18,Male,Employee,Customer Service,6.2,7,2.8,1 hour,11,Hard,9,Low,Yes,Bad weather,Satisfied,9,Rarely,Highly stressed
+18-24,Male,Student,Computer Science,8.4,0,5.3,30-60 min,3,Moderate,2,Medium,No,None,Satisfied,3,Never,Not stressed
+18-24,Female,Employee,Other,5.1,6,6.5,1 hour,8,Hard,4,Low,Yes,"Transportation problem / car issue, Bad weather",Satisfied,6,Often,Slightly stressed
+18-24,Female,Student,Arts,6.6,0,4.4,30-60 min,2,Easy,3,Medium,Yes,"Financial stress, Personal disappointment, Health-related stress",Satisfied,6,Often,Highly stressed
+25-35,Male,Employee,Administration,7.4,8,5.0,< 30 min,11,Easy,10,Low,Yes,Personal disappointment,Satisfied,5,Almost always,Slightly stressed
+18-24,Male,Employee,Engineering,6.5,6,2.9,> 2 hours,6,Moderate,6,Medium,Yes,"Transportation problem / car issue, Personal disappointment, Academic/work failure or poor performance",Satisfied,8,Almost always,Not stressed
+25-35,Female,Employee,Teaching,7.3,9,3.8,1 hour,10,Moderate,6,Medium,No,None,Dissatisfied,4,Often,Highly stressed
+18-24,Female,Student,Biology,6.3,3,5.3,< 30 min,4,Hard,5,Medium,Yes,Health-related stress,Satisfied,6,Rarely,Slightly stressed
+18-24,Male,Student,Engineering,5.0,0,3.9,30-60 min,3,Hard,4,Low,Yes,"Personal disappointment, Health-related stress",Satisfied,5,Never,Not stressed
+18-24,Male,Student,Arts,5.5,3,1.6,30-60 min,7,Hard,3,Low,Yes,"Financial stress, Personal disappointment, Arguing/conflict with someone",Dissatisfied,5,Almost always,Not stressed
+18-24,Female,Both,IT,5.5,10,4.5,< 30 min,8,Moderate,7,Medium,Yes,Academic/work failure or poor performance,Dissatisfied,5,Often,Slightly stressed
+25-35,Male,Both,Business,6.7,10,6.6,1 hour,11,Moderate,4,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,3,Never,Not stressed
+18-24,Male,Employee,Administration,7.2,8,1.8,30-60 min,6,Moderate,3,High,Yes,"Health-related stress, Transportation problem / car issue",Satisfied,5,Rarely,Not stressed
+18-24,Female,Student,Computer Science,8.9,0,1.8,30-60 min,4,Easy,3,Medium,Yes,"Transportation problem / car issue, Financial stress, Personal disappointment",Satisfied,9,Rarely,Highly stressed
+18-24,Female,Employee,Customer Service,5.5,8,6.3,1 hour,6,Easy,8,Medium,Yes,"Personal disappointment, Transportation problem / car issue",Dissatisfied,3,Almost always,Highly stressed
+25-35,Female,Employee,Engineering,7.1,6,3.8,30-60 min,5,Easy,5,High,No,None,Satisfied,1,Often,Not stressed
+18-24,Male,Student,Education,7.5,2,0.5,< 30 min,5,Hard,2,Low,No,None,Dissatisfied,2,Almost always,Slightly stressed
+18-24,Female,Employee,Healthcare,6.9,7,2.4,1 hour,7,Easy,8,Medium,Yes,"Financial stress, Bad weather, Personal disappointment",Satisfied,8,Rarely,Highly stressed
+<18,Male,Employee,Engineering,7.0,6,5.2,1 hour,8,Hard,10,High,Yes,"Academic/work failure or poor performance, Bad weather",Satisfied,7,Often,Highly stressed
+<18,Male,Student,Medicine,7.8,3,4.8,< 30 min,6,Moderate,8,Medium,No,None,Satisfied,3,Often,Highly stressed
+18-24,Male,Employee,Teaching,7.7,7,2.4,< 30 min,7,Hard,7,High,No,None,Satisfied,4,Often,Slightly stressed
+25-35,Male,Student,Law,6.8,2,4.8,30-60 min,3,Moderate,4,Medium,No,None,Satisfied,1,Often,Not stressed
+18-24,Female,Neither,None,7.7,2,2.9,< 30 min,2,Moderate,2,Medium,Yes,Academic/work failure or poor performance,Dissatisfied,5,Often,Slightly stressed
+18-24,Female,Both,Education,4.1,9,4.5,< 30 min,11,Moderate,6,High,No,None,Satisfied,2,Rarely,Slightly stressed
+<18,Male,Student,Law,8.1,0,1.9,< 30 min,4,Moderate,6,Low,No,None,Satisfied,1,Rarely,Highly stressed
+<18,Female,Student,Biology,5.8,2,4.5,30-60 min,4,Moderate,7,Medium,No,None,Dissatisfied,2,Often,Highly stressed
+25-35,Female,Employee,Other,6.5,8,0.9,< 30 min,9,Hard,5,High,No,None,Satisfied,4,Rarely,Slightly stressed
+<18,Female,Student,Business,5.1,1,1.4,30-60 min,4,Easy,7,Low,Yes,"Academic/work failure or poor performance, Health-related stress, Transportation problem / car issue",Satisfied,5,Almost always,Not stressed
+36+,Female,Employee,Freelancing,6.7,9,1.1,1 hour,7,Easy,1,High,No,None,Dissatisfied,3,Rarely,Slightly stressed
+25-35,Male,Employee,Engineering,7.2,9,3.6,1 hour,10,Easy,10,Medium,Yes,"Health-related stress, Bad weather, Arguing/conflict with someone",Dissatisfied,8,Often,Slightly stressed
+18-24,Male,Both,Law,4.6,8,3.5,> 2 hours,13,Easy,5,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Male,Student,Business,7.2,2,4.7,< 30 min,3,Hard,4,Medium,No,None,Dissatisfied,2,Often,Slightly stressed
+36+,Female,Both,Biology,4.9,9,6.2,1 hour,13,Easy,8,Low,No,None,Satisfied,3,Often,Slightly stressed
+25-35,Male,Student,Psychology,8.3,2,5.2,30-60 min,2,Moderate,1,Low,No,None,Dissatisfied,2,Almost always,Highly stressed
+36+,Male,Student,Education,6.3,3,4.7,1 hour,6,Hard,6,Medium,Yes,Academic/work failure or poor performance,Satisfied,5,Almost always,Not stressed
+25-35,Female,Student,Engineering,7.5,0,1.9,< 30 min,4,Moderate,8,Medium,Yes,"Arguing/conflict with someone, Bad weather",Satisfied,9,Rarely,Slightly stressed
+<18,Male,Student,Engineering,5.6,3,4.5,30-60 min,7,Easy,1,High,No,None,Dissatisfied,1,Often,Not stressed
+36+,Female,Employee,Engineering,5.4,6,6.2,< 30 min,7,Hard,9,High,Yes,Personal disappointment,Satisfied,9,Rarely,Highly stressed
+25-35,Female,Neither,None,8.4,0,3.9,1 hour,2,Moderate,1,Medium,Yes,"Arguing/conflict with someone, Bad weather, Personal disappointment",Satisfied,4,Almost always,Slightly stressed
+36+,Female,Student,Law,8.2,0,1.7,30-60 min,2,Moderate,5,Low,No,None,Satisfied,2,Almost always,Slightly stressed
+18-24,Male,Student,Psychology,7.6,3,4.6,< 30 min,7,Moderate,4,High,No,None,Satisfied,5,Often,Not stressed
+36+,Male,Student,Computer Science,7.1,2,1.9,< 30 min,5,Hard,1,Low,Yes,"Bad weather, Arguing/conflict with someone, Health-related stress",Satisfied,3,Often,Highly stressed
+25-35,Male,Both,Engineering,6.6,9,4.9,30-60 min,10,Easy,9,Medium,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,6,Never,Highly stressed
+18-24,Male,Employee,Administration,6.1,9,1.4,1 hour,10,Hard,4,Low,Yes,Health-related stress,Satisfied,6,Never,Slightly stressed
+18-24,Female,Employee,Administration,6.3,9,6.7,30-60 min,6,Easy,8,High,No,None,Satisfied,1,Often,Highly stressed
+<18,Female,Both,Psychology,4.4,8,1.4,< 30 min,11,Moderate,7,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance",Satisfied,9,Often,Not stressed
+36+,Male,Employee,IT,7.5,8,2.2,30-60 min,7,Moderate,10,Medium,Yes,Health-related stress,Satisfied,8,Rarely,Slightly stressed
+18-24,Female,Both,Finance,5.5,8,6.5,30-60 min,11,Hard,6,Medium,Yes,"Personal disappointment, Health-related stress",Satisfied,8,Rarely,Slightly stressed
+18-24,Female,Student,Education,6.9,3,4.3,> 2 hours,4,Easy,6,Low,Yes,Academic/work failure or poor performance,Dissatisfied,7,Almost always,Slightly stressed
+<18,Female,Both,Administration,4.9,11,5.3,30-60 min,14,Easy,9,Low,No,None,Satisfied,2,Often,Highly stressed
+<18,Female,Student,Business,8.2,2,5.1,< 30 min,4,Easy,4,Low,Yes,"Bad weather, Academic/work failure or poor performance, Arguing/conflict with someone",Satisfied,8,Often,Slightly stressed
+18-24,Female,Employee,Teaching,5.6,6,5.9,1 hour,10,Moderate,1,High,No,None,Satisfied,4,Rarely,Slightly stressed
+36+,Male,Student,Psychology,7.2,3,5.3,< 30 min,5,Moderate,2,Low,No,None,Satisfied,5,Often,Slightly stressed
+25-35,Female,Both,Psychology,4.7,9,5.6,> 2 hours,13,Moderate,7,Medium,Yes,Health-related stress,Dissatisfied,6,Often,Highly stressed
+36+,Male,Student,Psychology,8.9,1,5.5,1 hour,5,Easy,3,Medium,No,None,Satisfied,3,Often,Highly stressed
+18-24,Male,Both,Customer Service,4.8,10,6.5,1 hour,11,Easy,4,Low,No,None,Dissatisfied,1,Almost always,Not stressed
+18-24,Female,Both,Psychology,6.8,10,3.6,30-60 min,13,Moderate,3,Medium,Yes,"Bad weather, Transportation problem / car issue",Dissatisfied,6,Rarely,Highly stressed
+25-35,Female,Student,Medicine,7.8,3,5.8,< 30 min,4,Easy,10,Low,No,None,Satisfied,5,Often,Highly stressed
+18-24,Female,Both,Education,4.4,10,2.6,30-60 min,12,Moderate,6,High,Yes,"Personal disappointment, Financial stress",Satisfied,8,Rarely,Not stressed
+18-24,Male,Student,Psychology,7.9,1,6.7,< 30 min,2,Easy,6,High,Yes,"Financial stress, Personal disappointment",Satisfied,7,Often,Highly stressed
+18-24,Female,Both,Education,5.1,8,5.0,< 30 min,13,Easy,10,Low,Yes,Health-related stress,Satisfied,3,Often,Slightly stressed
+<18,Female,Student,Biology,6.4,3,6.6,30-60 min,3,Hard,5,High,Yes,"Academic/work failure or poor performance, Financial stress, Health-related stress",Satisfied,3,Almost always,Slightly stressed
+18-24,Male,Employee,Teaching,7.8,6,6.3,1 hour,5,Moderate,6,Medium,Yes,"Health-related stress, Bad weather",Satisfied,4,Rarely,Not stressed
+18-24,Male,Employee,Healthcare,6.6,7,6.6,30-60 min,9,Moderate,3,Medium,Yes,"Financial stress, Personal disappointment, Bad weather",Satisfied,4,Rarely,Slightly stressed
+18-24,Female,Employee,Engineering,6.5,9,1.2,30-60 min,5,Easy,6,High,Yes,"Health-related stress, Financial stress, Transportation problem / car issue",Satisfied,9,Often,Highly stressed
+25-35,Male,Both,Law,4.8,10,6.1,< 30 min,12,Hard,5,Medium,Yes,"Personal disappointment, Financial stress",Satisfied,5,Almost always,Slightly stressed
+18-24,Male,Employee,Healthcare,7.0,6,4.6,1 hour,5,Easy,10,Medium,Yes,Bad weather,Dissatisfied,6,Rarely,Slightly stressed
+18-24,Female,Employee,Customer Service,6.1,6,3.9,< 30 min,8,Hard,8,Medium,Yes,Personal disappointment,Satisfied,3,Almost always,Highly stressed
+18-24,Male,Employee,IT,6.3,7,4.3,1 hour,11,Hard,8,Medium,No,None,Dissatisfied,1,Often,Slightly stressed
+25-35,Male,Employee,Other,7.3,7,2.5,< 30 min,7,Easy,8,Medium,No,None,Satisfied,3,Often,Slightly stressed
+18-24,Male,Employee,Engineering,5.4,8,1.9,30-60 min,11,Easy,5,Medium,No,None,Satisfied,3,Often,Slightly stressed
+<18,Male,Employee,Administration,7.2,6,2.3,> 2 hours,9,Easy,3,High,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,7,Rarely,Slightly stressed
+<18,Male,Employee,Administration,6.7,9,5.1,1 hour,11,Easy,2,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,5,Often,Highly stressed
+25-35,Female,Both,Computer Science,5.5,10,1.8,30-60 min,14,Easy,8,Medium,Yes,Arguing/conflict with someone,Satisfied,6,Often,Highly stressed
+18-24,Female,Employee,Healthcare,6.0,9,3.2,30-60 min,9,Moderate,2,Low,No,None,Satisfied,5,Rarely,Not stressed
+36+,Male,Employee,Healthcare,7.3,9,3.6,30-60 min,8,Easy,10,Low,Yes,"Bad weather, Academic/work failure or poor performance, Transportation problem / car issue",Dissatisfied,3,Never,Slightly stressed
+36+,Female,Employee,IT,5.9,8,5.5,< 30 min,8,Easy,1,Low,No,None,Satisfied,1,Rarely,Not stressed
+25-35,Male,Employee,Engineering,5.6,8,3.0,1 hour,5,Moderate,9,Medium,Yes,"Personal disappointment, Financial stress",Satisfied,5,Often,Slightly stressed
+18-24,Male,Student,Computer Science,7.8,2,6.7,< 30 min,2,Moderate,4,Low,No,None,Satisfied,5,Often,Highly stressed
+25-35,Female,Both,Other,6.2,10,4.3,30-60 min,10,Easy,9,Medium,No,None,Satisfied,1,Rarely,Slightly stressed
+18-24,Female,Student,Computer Science,8.5,3,6.9,< 30 min,6,Hard,10,Low,Yes,Health-related stress,Dissatisfied,8,Often,Slightly stressed
+25-35,Female,Both,Teaching,6.6,8,1.1,1 hour,9,Easy,7,Low,No,None,Satisfied,1,Almost always,Highly stressed
+<18,Male,Student,Education,7.9,3,3.6,30-60 min,7,Easy,10,Medium,No,None,Satisfied,5,Often,Not stressed
+18-24,Female,Employee,Other,7.2,6,3.8,30-60 min,5,Easy,1,High,Yes,"Bad weather, Personal disappointment",Dissatisfied,6,Almost always,Highly stressed
+25-35,Male,Student,Biology,8.3,3,2.9,< 30 min,2,Easy,5,High,No,None,Satisfied,1,Often,Not stressed
+18-24,Male,Both,Medicine,4.0,10,1.9,30-60 min,9,Easy,2,Medium,No,None,Satisfied,2,Often,Slightly stressed
+25-35,Male,Employee,Customer Service,7.1,6,2.1,30-60 min,6,Easy,10,Medium,No,None,Dissatisfied,1,Almost always,Highly stressed
+36+,Male,Employee,Freelancing,7.5,8,7.0,30-60 min,6,Easy,5,Medium,No,None,Satisfied,2,Rarely,Slightly stressed
+36+,Male,Student,Business,7.4,2,5.1,< 30 min,2,Easy,10,Medium,Yes,"Arguing/conflict with someone, Personal disappointment",Satisfied,5,Often,Highly stressed
+18-24,Female,Student,Computer Science,6.9,3,5.1,< 30 min,2,Hard,7,Medium,Yes,"Financial stress, Academic/work failure or poor performance",Dissatisfied,8,Rarely,Not stressed
+25-35,Female,Employee,Freelancing,6.5,9,1.6,30-60 min,6,Moderate,4,Medium,Yes,Financial stress,Satisfied,4,Often,Slightly stressed
+25-35,Male,Both,Engineering,5.9,9,6.2,< 30 min,10,Moderate,2,Low,No,None,Satisfied,2,Almost always,Slightly stressed
+18-24,Male,Both,Psychology,6.3,8,2.2,1 hour,13,Moderate,4,Low,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,8,Almost always,Slightly stressed
+18-24,Female,Student,Business,8.7,0,3.6,< 30 min,3,Hard,4,High,Yes,"Personal disappointment, Bad weather, Academic/work failure or poor performance",Satisfied,5,Often,Highly stressed
+18-24,Female,Student,Medicine,7.5,2,2.6,> 2 hours,4,Moderate,10,High,Yes,Health-related stress,Satisfied,7,Rarely,Slightly stressed
+18-24,Female,Student,Education,6.5,0,2.1,< 30 min,4,Easy,7,High,Yes,"Health-related stress, Personal disappointment, Bad weather",Dissatisfied,7,Often,Slightly stressed
+<18,Male,Student,Business,5.4,1,2.9,1 hour,3,Hard,1,Low,Yes,Transportation problem / car issue,Satisfied,4,Rarely,Slightly stressed
+36+,Female,Both,Law,6.3,9,3.2,> 2 hours,13,Hard,6,Low,No,None,Satisfied,3,Often,Slightly stressed
+25-35,Female,Student,Law,8.0,2,3.2,1 hour,6,Hard,2,Medium,Yes,Personal disappointment,Satisfied,7,Rarely,Highly stressed
+<18,Male,Student,Medicine,5.0,2,3.9,< 30 min,6,Moderate,2,Low,Yes,"Academic/work failure or poor performance, Financial stress, Health-related stress",Satisfied,6,Rarely,Slightly stressed
+<18,Female,Employee,Freelancing,5.1,9,6.9,< 30 min,6,Moderate,4,Medium,No,None,Satisfied,5,Rarely,Highly stressed
+18-24,Female,Both,Administration,5.5,8,3.1,30-60 min,9,Easy,3,High,Yes,"Health-related stress, Transportation problem / car issue, Bad weather",Satisfied,8,Rarely,Slightly stressed
+36+,Female,Employee,Healthcare,6.3,7,6.1,> 2 hours,7,Moderate,3,High,No,None,Satisfied,4,Often,Not stressed
+36+,Male,Student,Engineering,5.8,2,3.1,< 30 min,5,Moderate,6,Medium,No,None,Satisfied,3,Often,Highly stressed
+36+,Male,Student,Medicine,8.4,1,3.0,> 2 hours,5,Easy,8,Low,Yes,"Health-related stress, Financial stress, Transportation problem / car issue",Satisfied,3,Never,Slightly stressed
+36+,Male,Student,Arts,5.2,3,6.8,1 hour,6,Easy,3,Medium,No,None,Satisfied,2,Almost always,Slightly stressed
+18-24,Male,Employee,IT,6.7,8,2.5,30-60 min,6,Hard,8,High,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone",Dissatisfied,6,Almost always,Slightly stressed
+25-35,Male,Student,Education,8.3,2,6.8,< 30 min,6,Moderate,1,Medium,Yes,Academic/work failure or poor performance,Satisfied,7,Often,Highly stressed
+36+,Male,Both,Medicine,6.0,10,1.2,> 2 hours,13,Hard,9,Medium,Yes,"Arguing/conflict with someone, Health-related stress",Satisfied,5,Often,Slightly stressed
+25-35,Female,Employee,IT,7.1,7,1.0,30-60 min,10,Easy,3,Medium,Yes,"Financial stress, Personal disappointment",Satisfied,3,Often,Slightly stressed
+25-35,Female,Student,Law,7.7,3,5.4,30-60 min,5,Easy,1,Medium,Yes,"Health-related stress, Financial stress",Dissatisfied,5,Almost always,Not stressed
+18-24,Female,Employee,Other,6.5,6,5.4,< 30 min,7,Easy,4,High,No,None,Dissatisfied,1,Often,Highly stressed
+18-24,Female,Employee,Engineering,6.2,8,2.5,< 30 min,10,Easy,6,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,9,Often,Slightly stressed
+18-24,Female,Employee,Freelancing,5.5,6,4.3,30-60 min,7,Easy,2,High,No,None,Satisfied,4,Often,Not stressed
+18-24,Female,Employee,Engineering,5.8,6,7.0,1 hour,9,Easy,10,Low,Yes,Academic/work failure or poor performance,Dissatisfied,6,Rarely,Not stressed
+18-24,Male,Both,Education,5.1,11,1.6,1 hour,12,Moderate,2,High,Yes,Financial stress,Dissatisfied,7,Rarely,Not stressed
+18-24,Male,Student,Law,6.1,2,6.9,< 30 min,3,Moderate,6,High,Yes,Academic/work failure or poor performance,Satisfied,7,Often,Not stressed
+<18,Male,Student,Arts,8.8,0,3.7,< 30 min,5,Hard,8,Low,Yes,Transportation problem / car issue,Satisfied,9,Often,Slightly stressed
+25-35,Male,Student,Education,8.9,3,4.8,< 30 min,4,Hard,5,Low,No,None,Satisfied,4,Often,Highly stressed
+36+,Male,Both,Biology,5.8,9,0.7,30-60 min,11,Hard,7,Low,Yes,"Academic/work failure or poor performance, Health-related stress",Dissatisfied,3,Almost always,Slightly stressed
+36+,Female,Student,Biology,7.6,3,5.6,< 30 min,7,Hard,3,Medium,Yes,"Health-related stress, Arguing/conflict with someone",Satisfied,4,Never,Slightly stressed
+36+,Female,Student,Psychology,6.0,2,2.2,< 30 min,6,Easy,8,High,Yes,Arguing/conflict with someone,Satisfied,5,Rarely,Slightly stressed
+<18,Male,Neither,None,8.8,0,2.6,30-60 min,3,Easy,6,Low,No,None,Satisfied,1,Often,Highly stressed
+18-24,Female,Student,Arts,5.9,0,3.2,< 30 min,2,Moderate,6,High,Yes,Arguing/conflict with someone,Satisfied,4,Often,Slightly stressed
+18-24,Male,Employee,Engineering,7.8,8,1.9,30-60 min,8,Moderate,10,High,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,7,Often,Slightly stressed
+36+,Female,Student,Psychology,6.7,1,2.1,30-60 min,5,Moderate,8,High,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,9,Never,Slightly stressed
+18-24,Female,Student,Psychology,5.2,0,3.3,1 hour,7,Easy,5,Medium,Yes,"Personal disappointment, Health-related stress",Satisfied,5,Rarely,Slightly stressed
+25-35,Male,Employee,Engineering,7.9,6,6.4,30-60 min,11,Moderate,1,Medium,Yes,Transportation problem / car issue,Satisfied,9,Often,Slightly stressed
+25-35,Female,Both,Biology,6.1,9,4.5,30-60 min,10,Hard,10,Medium,Yes,Bad weather,Satisfied,3,Often,Highly stressed
+18-24,Male,Employee,IT,5.6,8,5.3,30-60 min,7,Easy,9,Low,Yes,Arguing/conflict with someone,Satisfied,8,Never,Slightly stressed
+36+,Female,Employee,IT,7.5,6,4.0,> 2 hours,6,Moderate,10,Medium,No,None,Satisfied,4,Often,Slightly stressed
+18-24,Female,Student,Engineering,7.9,1,2.5,30-60 min,6,Easy,5,High,No,None,Dissatisfied,3,Almost always,Slightly stressed
+25-35,Male,Employee,Teaching,6.7,8,5.2,30-60 min,8,Moderate,8,High,No,None,Satisfied,5,Often,Slightly stressed
+25-35,Male,Employee,Finance,7.5,6,0.8,< 30 min,5,Easy,4,Medium,Yes,"Bad weather, Personal disappointment",Satisfied,7,Rarely,Slightly stressed
+18-24,Female,Employee,Freelancing,5.1,9,1.6,30-60 min,10,Moderate,6,Medium,Yes,Financial stress,Satisfied,8,Often,Slightly stressed
+25-35,Female,Student,Law,6.9,0,5.2,< 30 min,2,Easy,3,Medium,Yes,"Academic/work failure or poor performance, Bad weather",Dissatisfied,8,Rarely,Slightly stressed
+18-24,Male,Neither,None,7.7,2,5.2,< 30 min,4,Hard,3,Low,Yes,"Bad weather, Personal disappointment",Satisfied,3,Rarely,Not stressed
+25-35,Male,Employee,Engineering,5.4,8,3.8,< 30 min,10,Moderate,1,Low,Yes,Arguing/conflict with someone,Satisfied,4,Often,Slightly stressed
+18-24,Male,Employee,Freelancing,6.6,9,4.2,> 2 hours,7,Easy,4,High,Yes,"Academic/work failure or poor performance, Personal disappointment, Health-related stress",Satisfied,3,Often,Slightly stressed
+25-35,Female,Employee,Customer Service,5.4,7,4.8,> 2 hours,5,Easy,7,Low,No,None,Satisfied,5,Rarely,Highly stressed
+<18,Female,Student,Law,9.0,2,5.5,30-60 min,3,Hard,3,Medium,No,None,Dissatisfied,1,Never,Slightly stressed
+18-24,Female,Student,Business,6.6,3,1.7,< 30 min,7,Easy,4,Medium,No,None,Dissatisfied,4,Almost always,Slightly stressed
+18-24,Female,Employee,Engineering,7.5,7,2.2,1 hour,8,Hard,4,Low,Yes,Health-related stress,Dissatisfied,5,Rarely,Highly stressed
+25-35,Male,Student,Engineering,6.3,3,4.1,1 hour,2,Hard,6,Low,Yes,Academic/work failure or poor performance,Satisfied,5,Almost always,Slightly stressed
+18-24,Female,Student,Medicine,8.1,0,2.4,30-60 min,7,Hard,8,High,Yes,"Health-related stress, Arguing/conflict with someone",Dissatisfied,4,Never,Slightly stressed
+18-24,Male,Student,Business,7.7,3,1.0,30-60 min,5,Moderate,5,High,No,None,Dissatisfied,1,Often,Not stressed
+<18,Male,Neither,None,6.8,2,1.6,< 30 min,1,Easy,5,Medium,Yes,"Health-related stress, Academic/work failure or poor performance, Personal disappointment",Satisfied,7,Almost always,Slightly stressed
+18-24,Female,Both,Administration,4.8,8,1.7,30-60 min,8,Hard,5,Medium,Yes,"Health-related stress, Transportation problem / car issue",Satisfied,6,Rarely,Highly stressed
+18-24,Male,Student,Biology,8.0,3,2.8,30-60 min,5,Hard,8,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,7,Rarely,Highly stressed
+36+,Female,Both,IT,5.7,9,6.5,1 hour,13,Easy,2,High,Yes,"Arguing/conflict with someone, Health-related stress, Financial stress",Satisfied,4,Rarely,Slightly stressed
+25-35,Female,Employee,Administration,7.4,8,4.4,30-60 min,9,Hard,10,Low,No,None,Satisfied,3,Never,Highly stressed
+36+,Male,Employee,Engineering,7.8,8,4.5,30-60 min,9,Moderate,10,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Personal disappointment",Dissatisfied,5,Often,Slightly stressed
+<18,Male,Employee,Finance,6.0,8,1.7,30-60 min,9,Easy,5,High,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Bad weather",Satisfied,4,Often,Slightly stressed
+25-35,Male,Employee,Engineering,6.7,7,1.2,30-60 min,5,Easy,3,Low,Yes,Bad weather,Satisfied,7,Often,Highly stressed
+25-35,Male,Employee,Administration,6.4,9,1.6,< 30 min,5,Moderate,8,High,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone, Bad weather",Satisfied,7,Often,Highly stressed
+25-35,Female,Student,Computer Science,6.3,1,4.9,30-60 min,3,Moderate,2,Medium,Yes,"Personal disappointment, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,4,Almost always,Slightly stressed
+36+,Male,Both,Education,4.1,8,6.2,1 hour,13,Easy,8,Medium,Yes,Bad weather,Satisfied,5,Rarely,Slightly stressed
+18-24,Male,Student,Education,5.9,3,2.3,30-60 min,2,Hard,6,Medium,No,None,Satisfied,4,Often,Slightly stressed
+<18,Female,Student,Law,7.4,0,6.2,30-60 min,2,Easy,10,High,Yes,"Financial stress, Arguing/conflict with someone",Satisfied,4,Often,Highly stressed
+36+,Female,Neither,None,6.4,1,0.8,< 30 min,4,Easy,9,Medium,No,None,Dissatisfied,5,Often,Highly stressed
+18-24,Male,Both,Finance,5.0,8,2.5,< 30 min,9,Easy,5,Low,No,None,Satisfied,3,Often,Highly stressed
+18-24,Female,Employee,Freelancing,5.3,7,5.8,1 hour,7,Easy,7,Low,No,None,Satisfied,3,Rarely,Slightly stressed
+36+,Male,Employee,Other,6.7,6,1.2,1 hour,6,Moderate,5,Medium,Yes,"Bad weather, Academic/work failure or poor performance",Satisfied,5,Often,Slightly stressed
+<18,Male,Student,Law,5.7,2,1.2,30-60 min,3,Moderate,8,Medium,No,None,Dissatisfied,4,Almost always,Highly stressed
+18-24,Male,Student,Arts,7.5,3,3.6,< 30 min,3,Easy,7,Medium,No,None,Dissatisfied,5,Rarely,Highly stressed
+18-24,Male,Employee,Finance,5.3,7,2.6,1 hour,9,Moderate,3,Medium,Yes,Arguing/conflict with someone,Satisfied,7,Never,Slightly stressed
+<18,Female,Student,Law,6.1,0,2.9,30-60 min,6,Moderate,5,Medium,No,None,Satisfied,5,Often,Slightly stressed
+36+,Male,Employee,Customer Service,5.9,9,5.1,30-60 min,6,Easy,7,High,Yes,"Bad weather, Health-related stress, Personal disappointment",Satisfied,4,Almost always,Highly stressed
+25-35,Male,Student,Medicine,7.5,3,4.3,30-60 min,7,Moderate,2,High,Yes,"Financial stress, Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,8,Rarely,Highly stressed
+18-24,Male,Student,Business,7.7,0,4.4,1 hour,4,Easy,9,Medium,Yes,Academic/work failure or poor performance,Satisfied,6,Rarely,Highly stressed
+18-24,Male,Both,Medicine,5.4,8,6.7,30-60 min,13,Easy,6,Medium,No,None,Satisfied,3,Often,Slightly stressed
+25-35,Male,Student,Psychology,8.5,2,5.1,30-60 min,7,Easy,6,High,No,None,Dissatisfied,1,Often,Slightly stressed
+18-24,Male,Both,Psychology,6.3,8,2.7,30-60 min,11,Hard,5,Medium,Yes,Personal disappointment,Satisfied,4,Rarely,Slightly stressed
+18-24,Male,Student,Engineering,5.7,0,5.6,> 2 hours,3,Hard,4,Medium,Yes,Health-related stress,Satisfied,4,Rarely,Slightly stressed
+25-35,Female,Student,Biology,8.4,1,4.7,< 30 min,7,Hard,8,Low,Yes,"Transportation problem / car issue, Health-related stress, Arguing/conflict with someone",Satisfied,3,Often,Highly stressed
+18-24,Female,Both,Law,4.3,10,6.7,1 hour,8,Easy,9,Medium,No,None,Satisfied,1,Almost always,Not stressed
+25-35,Male,Student,Education,8.4,1,2.4,< 30 min,4,Hard,6,High,Yes,Transportation problem / car issue,Satisfied,4,Rarely,Not stressed
+18-24,Female,Student,Psychology,7.7,0,1.2,30-60 min,5,Easy,5,Medium,Yes,"Academic/work failure or poor performance, Health-related stress, Financial stress",Satisfied,7,Rarely,Highly stressed
+18-24,Male,Employee,Teaching,7.7,7,4.6,30-60 min,9,Hard,3,Low,No,None,Dissatisfied,4,Often,Highly stressed
+18-24,Female,Employee,IT,7.8,8,1.9,1 hour,10,Moderate,8,Medium,No,None,Satisfied,1,Often,Highly stressed
+25-35,Female,Student,Engineering,9.0,2,1.9,30-60 min,5,Moderate,6,High,No,None,Dissatisfied,4,Rarely,Slightly stressed
+36+,Female,Employee,Engineering,5.9,8,0.5,1 hour,11,Hard,8,Low,No,None,Dissatisfied,3,Often,Slightly stressed
+25-35,Female,Both,Administration,6.1,11,6.9,30-60 min,13,Easy,4,Medium,Yes,Academic/work failure or poor performance,Satisfied,9,Rarely,Slightly stressed
+25-35,Male,Employee,IT,6.2,7,5.6,< 30 min,6,Moderate,7,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,7,Often,Slightly stressed
+36+,Male,Student,Psychology,5.2,2,4.5,< 30 min,6,Easy,1,Medium,Yes,"Bad weather, Health-related stress, Transportation problem / car issue",Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Student,Computer Science,7.9,0,2.0,1 hour,5,Easy,1,Low,Yes,"Health-related stress, Academic/work failure or poor performance",Dissatisfied,8,Never,Highly stressed
+18-24,Female,Student,Law,6.0,2,4.6,< 30 min,5,Moderate,3,Low,No,None,Satisfied,1,Rarely,Highly stressed
+25-35,Male,Employee,Customer Service,5.1,7,1.3,< 30 min,9,Easy,5,High,Yes,Health-related stress,Satisfied,8,Often,Highly stressed
+18-24,Male,Employee,Teaching,7.8,8,2.7,1 hour,8,Easy,5,High,Yes,"Transportation problem / car issue, Health-related stress",Satisfied,3,Rarely,Highly stressed
+36+,Male,Student,Education,5.6,0,4.8,< 30 min,5,Moderate,2,Medium,Yes,Transportation problem / car issue,Dissatisfied,5,Often,Slightly stressed
+18-24,Male,Student,Arts,6.4,2,2.2,< 30 min,6,Moderate,2,Low,Yes,Personal disappointment,Satisfied,3,Often,Highly stressed
+18-24,Female,Student,Computer Science,7.8,1,1.4,1 hour,7,Easy,2,Medium,Yes,"Personal disappointment, Financial stress, Transportation problem / car issue",Satisfied,9,Almost always,Highly stressed
+18-24,Male,Student,Education,7.0,1,4.9,< 30 min,6,Hard,1,High,Yes,"Health-related stress, Personal disappointment, Academic/work failure or poor performance",Satisfied,5,Often,Highly stressed
+25-35,Female,Student,Education,8.7,0,2.0,> 2 hours,5,Moderate,1,Low,No,None,Dissatisfied,3,Rarely,Slightly stressed
+18-24,Male,Both,Computer Science,6.3,8,4.3,30-60 min,10,Moderate,5,Medium,No,None,Satisfied,5,Often,Slightly stressed
+<18,Female,Both,Engineering,4.2,10,4.0,30-60 min,14,Hard,8,High,Yes,"Academic/work failure or poor performance, Financial stress, Transportation problem / car issue",Satisfied,7,Almost always,Slightly stressed
+36+,Male,Student,Psychology,8.1,3,5.9,< 30 min,7,Easy,5,Medium,No,None,Dissatisfied,2,Never,Highly stressed
+36+,Male,Student,Computer Science,6.6,1,1.1,1 hour,6,Easy,10,Medium,Yes,"Health-related stress, Personal disappointment",Satisfied,4,Rarely,Slightly stressed
+25-35,Female,Both,Biology,4.4,9,2.7,1 hour,10,Moderate,1,High,Yes,"Bad weather, Financial stress",Satisfied,5,Often,Slightly stressed
+25-35,Female,Student,Biology,6.0,1,5.9,< 30 min,6,Easy,7,Medium,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone, Financial stress",Dissatisfied,8,Almost always,Slightly stressed
+18-24,Female,Employee,Engineering,5.3,8,4.2,30-60 min,7,Moderate,5,Medium,Yes,Personal disappointment,Dissatisfied,5,Rarely,Highly stressed
+18-24,Female,Student,Engineering,6.1,2,5.3,30-60 min,7,Hard,2,High,Yes,"Bad weather, Transportation problem / car issue",Dissatisfied,5,Almost always,Slightly stressed
+18-24,Male,Neither,None,7.9,0,6.9,< 30 min,2,Moderate,2,High,Yes,"Transportation problem / car issue, Personal disappointment, Arguing/conflict with someone",Satisfied,8,Often,Highly stressed
+25-35,Male,Both,Biology,4.7,11,6.6,1 hour,13,Easy,3,High,No,None,Dissatisfied,5,Never,Slightly stressed
+25-35,Female,Both,Computer Science,5.2,9,2.7,1 hour,9,Easy,5,Medium,No,None,Dissatisfied,2,Often,Slightly stressed
+25-35,Female,Student,Arts,6.4,3,3.6,1 hour,6,Easy,3,Medium,No,None,Satisfied,3,Often,Slightly stressed
+36+,Male,Both,IT,6.6,8,3.1,30-60 min,12,Moderate,2,Medium,Yes,"Financial stress, Personal disappointment, Academic/work failure or poor performance",Satisfied,9,Rarely,Not stressed
+18-24,Female,Neither,None,6.1,0,3.3,< 30 min,1,Easy,7,Medium,Yes,Financial stress,Dissatisfied,9,Often,Slightly stressed
+<18,Female,Employee,Other,5.1,8,1.3,1 hour,11,Moderate,5,Medium,Yes,"Bad weather, Financial stress",Dissatisfied,9,Rarely,Slightly stressed
+18-24,Male,Student,Business,8.8,2,2.0,< 30 min,5,Easy,1,Medium,No,None,Satisfied,3,Never,Highly stressed
+18-24,Male,Student,Computer Science,6.4,3,2.2,< 30 min,7,Moderate,1,Medium,No,None,Satisfied,5,Rarely,Slightly stressed
+18-24,Male,Neither,None,6.9,0,6.8,< 30 min,3,Moderate,8,Medium,Yes,Transportation problem / car issue,Satisfied,7,Often,Not stressed
+18-24,Male,Employee,Engineering,5.1,6,5.5,< 30 min,6,Easy,2,High,Yes,"Arguing/conflict with someone, Health-related stress, Financial stress",Satisfied,3,Often,Slightly stressed
+<18,Female,Employee,IT,7.5,9,2.1,30-60 min,8,Easy,7,High,Yes,"Academic/work failure or poor performance, Financial stress",Satisfied,4,Almost always,Slightly stressed
+36+,Male,Student,Psychology,7.2,2,2.4,30-60 min,5,Hard,9,Medium,Yes,"Personal disappointment, Financial stress, Academic/work failure or poor performance",Satisfied,5,Rarely,Slightly stressed
+18-24,Female,Both,Teaching,5.1,11,1.0,1 hour,14,Easy,8,High,No,None,Satisfied,1,Never,Slightly stressed
+18-24,Female,Employee,Engineering,5.0,7,6.6,30-60 min,7,Easy,7,Medium,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Dissatisfied,7,Rarely,Slightly stressed
+36+,Female,Employee,Healthcare,5.3,8,6.7,1 hour,10,Easy,7,Medium,Yes,"Transportation problem / car issue, Arguing/conflict with someone, Health-related stress",Dissatisfied,5,Rarely,Slightly stressed
+18-24,Female,Student,Biology,8.7,2,0.8,> 2 hours,6,Easy,1,Low,Yes,"Health-related stress, Arguing/conflict with someone, Bad weather",Satisfied,4,Often,Slightly stressed
+25-35,Male,Student,Psychology,6.4,2,6.1,30-60 min,5,Hard,8,Low,No,None,Satisfied,3,Almost always,Not stressed
+36+,Female,Employee,Teaching,5.5,8,5.2,30-60 min,5,Easy,8,Low,Yes,Academic/work failure or poor performance,Dissatisfied,5,Rarely,Slightly stressed
+25-35,Male,Employee,Healthcare,5.5,6,0.8,1 hour,8,Easy,8,Medium,Yes,Academic/work failure or poor performance,Dissatisfied,3,Rarely,Highly stressed
+25-35,Male,Student,Arts,5.3,0,1.4,< 30 min,7,Moderate,1,Medium,Yes,Personal disappointment,Satisfied,7,Often,Highly stressed
+25-35,Male,Both,Engineering,6.1,8,5.8,1 hour,10,Easy,1,Low,Yes,Arguing/conflict with someone,Satisfied,6,Often,Slightly stressed
+18-24,Female,Employee,Other,6.2,8,6.6,1 hour,6,Moderate,6,High,Yes,Financial stress,Satisfied,8,Rarely,Slightly stressed
+18-24,Female,Student,Business,5.6,2,3.6,30-60 min,5,Easy,8,Medium,Yes,"Bad weather, Personal disappointment, Health-related stress",Satisfied,8,Rarely,Not stressed
+<18,Female,Employee,Healthcare,6.3,9,2.6,> 2 hours,6,Moderate,7,Medium,Yes,"Financial stress, Health-related stress, Bad weather",Satisfied,9,Often,Slightly stressed
+18-24,Female,Employee,Teaching,7.7,7,5.9,< 30 min,5,Easy,7,Low,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Satisfied,8,Often,Highly stressed
+36+,Male,Employee,Healthcare,6.8,6,3.1,1 hour,6,Moderate,3,Low,Yes,Financial stress,Satisfied,8,Rarely,Highly stressed
+25-35,Male,Student,Engineering,5.4,0,1.1,1 hour,4,Hard,10,Medium,Yes,"Arguing/conflict with someone, Bad weather, Academic/work failure or poor performance",Satisfied,3,Often,Slightly stressed
+18-24,Female,Employee,Customer Service,6.5,9,5.1,30-60 min,10,Moderate,3,Low,Yes,"Personal disappointment, Arguing/conflict with someone, Bad weather",Satisfied,3,Almost always,Slightly stressed
+36+,Male,Employee,Customer Service,6.6,8,3.2,1 hour,6,Moderate,7,High,No,None,Dissatisfied,3,Often,Highly stressed
+18-24,Female,Neither,None,6.9,0,3.4,< 30 min,1,Hard,1,Medium,No,None,Satisfied,1,Almost always,Slightly stressed
+<18,Male,Student,Psychology,6.6,1,3.7,< 30 min,4,Moderate,10,Low,No,None,Dissatisfied,2,Often,Highly stressed
+<18,Female,Employee,Finance,5.7,7,5.6,30-60 min,7,Easy,2,High,No,None,Satisfied,4,Often,Highly stressed
+<18,Female,Employee,Healthcare,6.2,8,6.1,30-60 min,6,Hard,2,Low,No,None,Satisfied,5,Almost always,Highly stressed
+25-35,Female,Student,Psychology,5.4,3,1.4,30-60 min,2,Moderate,5,Medium,No,None,Satisfied,4,Often,Slightly stressed
+36+,Male,Student,Arts,7.9,3,6.4,< 30 min,7,Hard,6,High,No,None,Dissatisfied,5,Rarely,Slightly stressed
+25-35,Female,Student,Engineering,7.1,1,4.3,1 hour,5,Easy,1,High,No,None,Dissatisfied,1,Almost always,Slightly stressed
+25-35,Male,Employee,IT,7.4,9,4.1,30-60 min,11,Hard,6,Medium,No,None,Satisfied,4,Never,Slightly stressed
+18-24,Female,Both,Medicine,6.7,11,2.7,1 hour,14,Easy,5,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Financial stress",Satisfied,8,Never,Slightly stressed
+18-24,Male,Employee,Engineering,6.4,6,1.9,< 30 min,9,Moderate,9,High,No,None,Dissatisfied,5,Almost always,Highly stressed
+18-24,Female,Both,Biology,4.2,8,2.8,< 30 min,13,Moderate,4,High,Yes,"Personal disappointment, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,8,Often,Slightly stressed
+<18,Male,Both,Freelancing,4.7,10,1.4,30-60 min,11,Easy,10,Medium,Yes,"Transportation problem / car issue, Financial stress, Arguing/conflict with someone",Satisfied,9,Often,Slightly stressed
+18-24,Female,Both,Education,6.6,10,1.8,30-60 min,13,Easy,2,Medium,No,None,Satisfied,1,Often,Highly stressed
+18-24,Male,Student,Arts,6.9,0,5.8,30-60 min,2,Moderate,1,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Bad weather",Satisfied,5,Rarely,Not stressed
+18-24,Male,Both,Engineering,6.7,11,4.5,1 hour,8,Moderate,9,Medium,No,None,Satisfied,3,Almost always,Highly stressed
+36+,Female,Employee,Engineering,7.1,7,2.1,> 2 hours,8,Easy,2,High,No,None,Dissatisfied,3,Almost always,Slightly stressed
+18-24,Male,Student,Psychology,7.4,2,3.8,< 30 min,6,Moderate,4,High,Yes,Financial stress,Dissatisfied,8,Rarely,Highly stressed
+25-35,Male,Employee,Finance,6.3,6,6.5,30-60 min,7,Moderate,9,Low,Yes,Arguing/conflict with someone,Dissatisfied,4,Rarely,Slightly stressed
+25-35,Female,Student,Medicine,6.9,2,5.2,1 hour,7,Easy,8,Medium,Yes,"Academic/work failure or poor performance, Financial stress, Personal disappointment",Dissatisfied,8,Often,Not stressed
+<18,Female,Employee,Customer Service,5.3,8,4.8,30-60 min,7,Moderate,9,High,Yes,Academic/work failure or poor performance,Satisfied,3,Almost always,Highly stressed
+25-35,Male,Student,Computer Science,8.0,1,3.8,< 30 min,6,Easy,5,Medium,No,None,Satisfied,2,Almost always,Highly stressed
+18-24,Male,Student,Business,8.9,3,1.5,30-60 min,6,Hard,8,Medium,Yes,"Health-related stress, Academic/work failure or poor performance, Financial stress",Dissatisfied,4,Often,Slightly stressed
+25-35,Female,Student,Biology,7.7,1,2.0,< 30 min,6,Moderate,9,High,Yes,"Academic/work failure or poor performance, Financial stress, Health-related stress",Satisfied,4,Often,Not stressed
+36+,Male,Employee,Finance,7.4,6,3.3,30-60 min,8,Moderate,5,Medium,Yes,"Health-related stress, Arguing/conflict with someone",Satisfied,3,Often,Slightly stressed
+36+,Female,Employee,Engineering,6.8,8,5.9,30-60 min,9,Easy,1,High,Yes,"Financial stress, Transportation problem / car issue, Personal disappointment",Satisfied,3,Often,Slightly stressed
+<18,Female,Employee,Finance,7.5,7,6.6,30-60 min,10,Easy,5,High,Yes,"Health-related stress, Personal disappointment, Arguing/conflict with someone",Dissatisfied,3,Often,Highly stressed
+18-24,Male,Student,Business,6.9,0,4.6,30-60 min,6,Moderate,1,High,No,None,Satisfied,3,Never,Slightly stressed
+25-35,Male,Student,Medicine,7.9,3,6.0,1 hour,7,Easy,9,Medium,Yes,Bad weather,Satisfied,9,Rarely,Not stressed
+18-24,Female,Student,Arts,6.3,1,1.0,< 30 min,6,Easy,1,Medium,Yes,Financial stress,Satisfied,6,Almost always,Slightly stressed
+18-24,Female,Student,Education,7.7,0,6.4,< 30 min,4,Easy,8,Medium,Yes,"Financial stress, Transportation problem / car issue",Satisfied,9,Rarely,Not stressed
+25-35,Female,Employee,Teaching,5.4,6,2.9,> 2 hours,11,Moderate,7,Low,Yes,"Academic/work failure or poor performance, Financial stress, Health-related stress",Satisfied,3,Rarely,Not stressed
+36+,Male,Both,Psychology,4.1,10,6.8,30-60 min,10,Moderate,3,High,Yes,"Transportation problem / car issue, Bad weather",Satisfied,9,Almost always,Not stressed
+18-24,Male,Student,Medicine,5.6,3,2.9,< 30 min,3,Moderate,6,High,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Satisfied,9,Rarely,Highly stressed
+36+,Male,Employee,Other,7.7,9,1.2,30-60 min,9,Easy,9,Medium,No,None,Satisfied,5,Never,Slightly stressed
+18-24,Female,Employee,Customer Service,6.5,6,2.6,< 30 min,7,Hard,5,Medium,No,None,Dissatisfied,4,Almost always,Slightly stressed
+25-35,Female,Neither,None,8.8,2,4.2,> 2 hours,4,Easy,5,High,No,None,Satisfied,4,Often,Slightly stressed
+25-35,Female,Student,Computer Science,8.8,0,3.4,> 2 hours,6,Moderate,7,Medium,Yes,"Personal disappointment, Health-related stress, Transportation problem / car issue",Satisfied,9,Often,Not stressed
+25-35,Male,Student,Computer Science,7.6,3,4.2,1 hour,4,Moderate,8,Medium,Yes,"Academic/work failure or poor performance, Financial stress, Health-related stress",Satisfied,8,Rarely,Highly stressed
+<18,Female,Both,Law,7.0,10,4.8,30-60 min,14,Easy,4,Low,Yes,Personal disappointment,Satisfied,5,Often,Slightly stressed
+36+,Female,Student,Computer Science,6.4,2,3.7,30-60 min,5,Easy,6,Medium,Yes,"Health-related stress, Transportation problem / car issue, Bad weather",Satisfied,3,Often,Slightly stressed
+25-35,Male,Student,Business,6.2,0,1.6,1 hour,2,Moderate,5,High,Yes,"Personal disappointment, Bad weather",Dissatisfied,3,Almost always,Slightly stressed
+25-35,Female,Student,Psychology,7.9,0,6.2,< 30 min,6,Moderate,9,Low,Yes,Health-related stress,Satisfied,5,Rarely,Slightly stressed
+18-24,Female,Student,Medicine,8.7,3,2.4,< 30 min,7,Easy,1,Medium,Yes,Transportation problem / car issue,Satisfied,4,Rarely,Slightly stressed
+25-35,Male,Both,Other,4.6,8,5.9,30-60 min,13,Easy,4,High,Yes,"Arguing/conflict with someone, Financial stress, Academic/work failure or poor performance",Dissatisfied,7,Almost always,Slightly stressed
+18-24,Female,Student,Law,7.9,2,3.8,1 hour,6,Easy,2,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Satisfied,3,Often,Slightly stressed
+18-24,Female,Student,Engineering,7.8,2,1.0,< 30 min,2,Moderate,2,Medium,Yes,Academic/work failure or poor performance,Satisfied,9,Often,Highly stressed
+25-35,Male,Neither,None,7.0,1,5.2,< 30 min,3,Moderate,8,Medium,Yes,"Arguing/conflict with someone, Health-related stress",Satisfied,9,Almost always,Not stressed
+18-24,Female,Student,Arts,8.8,3,3.9,< 30 min,6,Moderate,9,Medium,Yes,"Financial stress, Bad weather",Dissatisfied,3,Rarely,Highly stressed
+<18,Female,Student,Arts,5.2,3,3.4,1 hour,7,Easy,5,Medium,Yes,"Financial stress, Bad weather, Academic/work failure or poor performance",Satisfied,8,Almost always,Slightly stressed
+18-24,Female,Student,Medicine,7.0,3,5.8,< 30 min,4,Easy,2,Medium,No,None,Dissatisfied,2,Often,Slightly stressed
+<18,Male,Employee,Healthcare,5.1,6,1.3,< 30 min,5,Moderate,2,Medium,Yes,Arguing/conflict with someone,Satisfied,8,Often,Slightly stressed
+<18,Male,Both,Freelancing,6.4,9,0.8,< 30 min,11,Easy,4,Low,Yes,"Transportation problem / car issue, Academic/work failure or poor performance",Satisfied,6,Rarely,Slightly stressed
+36+,Male,Student,Psychology,9.0,1,6.2,< 30 min,3,Moderate,8,High,Yes,Transportation problem / car issue,Dissatisfied,3,Almost always,Slightly stressed
+36+,Female,Employee,Administration,5.2,9,1.8,< 30 min,7,Moderate,9,Medium,Yes,"Financial stress, Academic/work failure or poor performance",Dissatisfied,3,Often,Highly stressed
+18-24,Male,Employee,Customer Service,7.1,6,4.7,30-60 min,10,Easy,6,Low,Yes,Transportation problem / car issue,Dissatisfied,6,Often,Slightly stressed
+18-24,Male,Employee,Finance,5.8,7,2.8,1 hour,7,Hard,6,Medium,Yes,"Arguing/conflict with someone, Financial stress",Satisfied,8,Rarely,Highly stressed
+25-35,Female,Employee,Finance,5.8,6,1.1,> 2 hours,8,Easy,10,High,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,9,Often,Highly stressed
+18-24,Male,Student,Business,6.1,2,5.6,< 30 min,3,Easy,8,High,Yes,"Arguing/conflict with someone, Health-related stress, Transportation problem / car issue",Satisfied,8,Never,Slightly stressed
+18-24,Male,Student,Business,8.3,0,0.8,< 30 min,5,Hard,9,Low,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,5,Almost always,Highly stressed
+18-24,Female,Employee,Engineering,5.6,7,6.4,1 hour,10,Hard,2,Medium,No,None,Satisfied,3,Rarely,Not stressed
+36+,Female,Student,Business,5.2,0,4.6,1 hour,6,Moderate,10,High,No,None,Satisfied,4,Almost always,Not stressed
+18-24,Male,Student,Medicine,6.1,3,3.2,< 30 min,2,Moderate,5,Medium,No,None,Satisfied,1,Rarely,Not stressed
+36+,Female,Employee,Other,7.9,9,4.3,1 hour,5,Hard,6,Medium,Yes,"Health-related stress, Financial stress, Arguing/conflict with someone",Satisfied,4,Often,Slightly stressed
+18-24,Male,Employee,Healthcare,7.0,6,1.9,1 hour,5,Moderate,4,Medium,Yes,"Health-related stress, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,4,Almost always,Slightly stressed
+<18,Female,Employee,Customer Service,5.6,9,6.4,30-60 min,5,Moderate,2,Medium,Yes,"Bad weather, Financial stress, Personal disappointment",Satisfied,7,Rarely,Not stressed
+18-24,Female,Student,Education,6.3,1,6.7,1 hour,6,Hard,1,Medium,No,None,Satisfied,1,Never,Highly stressed
+18-24,Female,Employee,Healthcare,5.3,6,6.8,1 hour,9,Moderate,10,Low,Yes,Bad weather,Satisfied,3,Never,Slightly stressed
+18-24,Female,Employee,Other,8.0,9,5.8,1 hour,10,Easy,2,High,Yes,Bad weather,Dissatisfied,9,Almost always,Highly stressed
+25-35,Female,Both,Law,5.1,10,2.3,30-60 min,14,Easy,6,Medium,No,None,Dissatisfied,1,Often,Slightly stressed
+18-24,Female,Employee,Customer Service,7.0,6,2.0,30-60 min,9,Easy,4,Medium,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,4,Never,Slightly stressed
+25-35,Female,Student,Engineering,8.9,0,0.9,< 30 min,7,Easy,6,Medium,No,None,Dissatisfied,3,Rarely,Slightly stressed
+18-24,Female,Employee,Freelancing,7.2,7,2.6,30-60 min,7,Easy,7,Low,No,None,Dissatisfied,5,Never,Slightly stressed
+36+,Female,Neither,None,8.5,1,3.4,30-60 min,4,Easy,10,High,Yes,"Bad weather, Arguing/conflict with someone",Dissatisfied,6,Almost always,Highly stressed
+18-24,Male,Neither,None,7.2,1,0.8,30-60 min,4,Easy,3,Medium,Yes,Health-related stress,Satisfied,8,Often,Not stressed
+36+,Female,Student,Business,5.8,1,2.4,< 30 min,7,Moderate,3,High,Yes,"Bad weather, Financial stress, Arguing/conflict with someone",Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Student,Psychology,7.4,3,5.1,< 30 min,6,Moderate,4,Low,No,None,Satisfied,3,Often,Not stressed
+36+,Male,Employee,Teaching,7.2,6,4.2,1 hour,8,Hard,7,Medium,Yes,"Bad weather, Health-related stress, Personal disappointment",Dissatisfied,7,Often,Slightly stressed
+36+,Male,Student,Arts,7.7,3,3.5,30-60 min,7,Easy,7,Low,Yes,Transportation problem / car issue,Dissatisfied,9,Rarely,Slightly stressed
+25-35,Female,Employee,Freelancing,7.8,7,6.3,< 30 min,9,Hard,7,High,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Financial stress",Satisfied,6,Rarely,Highly stressed
+25-35,Female,Both,Education,4.9,9,0.7,30-60 min,14,Easy,1,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue, Financial stress",Dissatisfied,5,Rarely,Highly stressed
+18-24,Male,Employee,IT,7.1,8,3.0,1 hour,11,Moderate,2,Medium,Yes,"Academic/work failure or poor performance, Bad weather, Arguing/conflict with someone",Satisfied,6,Never,Slightly stressed
+18-24,Male,Both,Business,6.0,8,6.7,1 hour,9,Hard,9,Medium,Yes,"Health-related stress, Personal disappointment, Bad weather",Satisfied,3,Often,Slightly stressed
+18-24,Male,Employee,Finance,6.5,8,3.9,> 2 hours,9,Moderate,6,Medium,Yes,"Financial stress, Bad weather, Arguing/conflict with someone",Satisfied,3,Never,Highly stressed
+18-24,Female,Neither,None,8.5,1,6.1,30-60 min,3,Hard,6,Medium,Yes,Personal disappointment,Satisfied,9,Often,Slightly stressed
+18-24,Male,Student,Education,5.9,3,2.4,< 30 min,5,Easy,6,High,Yes,"Bad weather, Personal disappointment",Satisfied,8,Often,Slightly stressed
+25-35,Male,Employee,IT,5.9,8,2.8,1 hour,8,Moderate,6,High,Yes,Academic/work failure or poor performance,Dissatisfied,7,Almost always,Highly stressed
+18-24,Female,Employee,Freelancing,6.5,6,6.6,30-60 min,11,Moderate,1,High,Yes,"Arguing/conflict with someone, Personal disappointment",Satisfied,6,Rarely,Highly stressed
+18-24,Male,Employee,Teaching,7.1,8,5.9,1 hour,6,Hard,3,Medium,Yes,"Health-related stress, Arguing/conflict with someone, Financial stress",Satisfied,3,Rarely,Not stressed
+<18,Male,Student,Engineering,5.7,3,3.1,< 30 min,3,Moderate,9,Low,Yes,"Transportation problem / car issue, Arguing/conflict with someone",Satisfied,7,Almost always,Slightly stressed
+18-24,Female,Student,Psychology,7.1,0,4.2,30-60 min,3,Hard,4,Medium,Yes,"Financial stress, Personal disappointment",Satisfied,5,Often,Not stressed
+18-24,Male,Student,Law,7.1,2,4.7,< 30 min,4,Easy,6,Medium,Yes,"Academic/work failure or poor performance, Bad weather, Personal disappointment",Satisfied,3,Rarely,Highly stressed
+18-24,Female,Student,Engineering,5.0,0,6.8,< 30 min,5,Moderate,6,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment, Health-related stress",Satisfied,8,Almost always,Slightly stressed
+18-24,Male,Employee,Healthcare,5.2,6,0.8,< 30 min,7,Moderate,7,High,No,None,Satisfied,3,Rarely,Slightly stressed
+36+,Male,Employee,Engineering,5.6,6,5.4,< 30 min,8,Moderate,5,Medium,Yes,"Financial stress, Academic/work failure or poor performance, Bad weather",Satisfied,4,Often,Highly stressed
+<18,Female,Student,Law,5.6,2,4.8,< 30 min,7,Moderate,2,High,Yes,"Health-related stress, Financial stress, Academic/work failure or poor performance",Satisfied,9,Almost always,Slightly stressed
+36+,Male,Employee,Finance,6.8,8,5.7,< 30 min,7,Easy,5,High,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Male,Both,Education,4.2,8,2.5,< 30 min,9,Moderate,3,Medium,No,None,Dissatisfied,5,Rarely,Slightly stressed
+18-24,Female,Student,Law,8.9,3,3.9,< 30 min,4,Hard,7,High,No,None,Dissatisfied,2,Almost always,Not stressed
+<18,Male,Student,Biology,8.7,3,1.8,30-60 min,4,Moderate,5,High,No,None,Satisfied,5,Almost always,Not stressed
+25-35,Male,Student,Psychology,5.5,1,2.6,< 30 min,7,Moderate,10,High,Yes,Arguing/conflict with someone,Dissatisfied,6,Rarely,Slightly stressed
+25-35,Male,Student,Biology,7.9,2,1.3,> 2 hours,3,Easy,7,High,Yes,"Bad weather, Personal disappointment",Dissatisfied,9,Often,Slightly stressed
+36+,Male,Both,Education,6.2,8,3.5,< 30 min,13,Moderate,1,Medium,No,None,Satisfied,5,Rarely,Slightly stressed
+36+,Female,Both,Education,4.8,10,6.5,30-60 min,9,Easy,6,Medium,Yes,"Health-related stress, Financial stress",Satisfied,3,Often,Slightly stressed
+18-24,Male,Employee,IT,5.6,6,5.3,< 30 min,5,Easy,8,Medium,No,None,Satisfied,2,Rarely,Highly stressed
+36+,Male,Employee,Freelancing,7.5,6,0.8,30-60 min,5,Moderate,4,High,Yes,Arguing/conflict with someone,Satisfied,8,Rarely,Highly stressed
+<18,Male,Neither,None,6.3,1,4.0,< 30 min,3,Easy,2,Medium,Yes,"Personal disappointment, Bad weather, Transportation problem / car issue",Satisfied,6,Often,Slightly stressed
+36+,Female,Student,Business,6.6,0,4.7,< 30 min,4,Easy,9,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,6,Rarely,Highly stressed
+25-35,Male,Employee,Administration,5.4,8,5.6,1 hour,6,Easy,4,Medium,Yes,"Financial stress, Health-related stress",Satisfied,9,Rarely,Not stressed
+18-24,Female,Employee,Customer Service,7.7,7,4.6,30-60 min,6,Moderate,1,Medium,No,None,Dissatisfied,2,Rarely,Slightly stressed
+36+,Female,Student,Law,7.4,3,2.0,30-60 min,6,Hard,9,Medium,Yes,Bad weather,Dissatisfied,3,Often,Slightly stressed
+18-24,Male,Student,Education,8.9,3,5.7,< 30 min,7,Moderate,2,Medium,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,8,Almost always,Not stressed
+25-35,Female,Both,Customer Service,4.5,11,2.5,30-60 min,13,Hard,8,High,Yes,"Bad weather, Personal disappointment, Financial stress",Satisfied,8,Often,Not stressed
+25-35,Female,Student,Business,8.4,1,5.2,30-60 min,3,Hard,1,Medium,Yes,Personal disappointment,Dissatisfied,3,Rarely,Highly stressed
+25-35,Female,Student,Biology,7.3,3,2.7,< 30 min,5,Hard,10,Low,Yes,Bad weather,Satisfied,6,Never,Not stressed
+18-24,Female,Neither,None,6.5,2,2.6,30-60 min,2,Easy,3,High,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Male,Student,Psychology,8.1,2,3.3,30-60 min,7,Moderate,6,Medium,Yes,Academic/work failure or poor performance,Satisfied,5,Rarely,Highly stressed
+36+,Male,Student,Computer Science,6.0,0,6.7,< 30 min,7,Moderate,6,Medium,No,None,Satisfied,3,Never,Highly stressed
+18-24,Female,Employee,IT,7.3,8,4.2,1 hour,7,Easy,1,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Arguing/conflict with someone",Satisfied,9,Almost always,Slightly stressed
+18-24,Female,Student,Computer Science,5.6,0,5.7,< 30 min,4,Hard,10,Medium,Yes,Health-related stress,Dissatisfied,4,Rarely,Slightly stressed
+36+,Female,Employee,Administration,7.8,7,1.4,1 hour,6,Hard,1,High,Yes,Academic/work failure or poor performance,Satisfied,3,Rarely,Not stressed
+<18,Female,Student,Psychology,8.1,1,4.2,30-60 min,2,Easy,8,High,No,None,Satisfied,2,Never,Highly stressed
+25-35,Female,Employee,Other,5.5,8,2.5,30-60 min,8,Moderate,9,Low,Yes,"Academic/work failure or poor performance, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,4,Almost always,Highly stressed
+25-35,Male,Employee,Administration,5.0,7,2.2,< 30 min,9,Easy,1,High,No,None,Dissatisfied,1,Almost always,Not stressed
+25-35,Male,Student,Psychology,5.5,0,6.3,1 hour,4,Hard,7,Low,Yes,"Health-related stress, Arguing/conflict with someone",Dissatisfied,7,Often,Highly stressed
+18-24,Male,Employee,Healthcare,5.6,9,0.9,< 30 min,6,Easy,5,High,Yes,"Personal disappointment, Bad weather",Dissatisfied,8,Often,Highly stressed
+18-24,Female,Both,Engineering,6.8,9,6.2,< 30 min,12,Hard,5,Medium,Yes,Transportation problem / car issue,Satisfied,3,Often,Highly stressed
+18-24,Male,Student,Education,5.0,0,0.6,30-60 min,7,Hard,6,High,No,None,Dissatisfied,1,Often,Slightly stressed
+18-24,Male,Employee,Teaching,5.8,8,3.3,30-60 min,9,Easy,3,Low,Yes,Health-related stress,Satisfied,8,Often,Slightly stressed
+18-24,Female,Student,Arts,6.7,3,1.0,1 hour,5,Easy,4,Medium,No,None,Dissatisfied,2,Often,Not stressed
+25-35,Male,Student,Engineering,6.5,2,3.4,1 hour,4,Easy,4,Medium,Yes,"Academic/work failure or poor performance, Bad weather, Financial stress",Satisfied,9,Often,Not stressed
+25-35,Female,Employee,Administration,5.7,8,0.9,> 2 hours,9,Moderate,2,Medium,No,None,Dissatisfied,4,Often,Slightly stressed
+18-24,Male,Employee,Customer Service,5.9,8,5.6,< 30 min,5,Moderate,1,High,No,None,Satisfied,5,Almost always,Highly stressed
+18-24,Male,Student,Computer Science,7.7,2,6.1,1 hour,3,Hard,5,Medium,Yes,"Bad weather, Transportation problem / car issue, Financial stress",Satisfied,9,Often,Slightly stressed
+25-35,Female,Student,Engineering,7.8,2,1.8,< 30 min,7,Moderate,2,Low,No,None,Satisfied,4,Often,Slightly stressed
+25-35,Female,Both,Engineering,6.8,10,6.5,< 30 min,8,Easy,8,High,Yes,"Financial stress, Health-related stress",Satisfied,7,Often,Highly stressed
+36+,Male,Student,Engineering,5.9,0,1.9,< 30 min,4,Hard,2,Low,Yes,Health-related stress,Satisfied,3,Rarely,Highly stressed
+25-35,Female,Employee,Finance,7.7,9,1.9,1 hour,9,Easy,8,High,No,None,Satisfied,5,Rarely,Slightly stressed
+36+,Male,Employee,Teaching,7.7,6,4.9,< 30 min,10,Moderate,1,Medium,Yes,"Health-related stress, Arguing/conflict with someone, Personal disappointment",Satisfied,4,Rarely,Slightly stressed
+18-24,Male,Student,Business,7.0,1,2.4,< 30 min,3,Easy,8,Low,Yes,"Health-related stress, Financial stress, Arguing/conflict with someone",Dissatisfied,4,Often,Highly stressed
+18-24,Male,Employee,IT,7.7,6,3.9,30-60 min,10,Moderate,6,Medium,No,None,Satisfied,5,Rarely,Highly stressed
+18-24,Female,Student,Arts,5.9,2,1.8,> 2 hours,7,Easy,3,Medium,No,None,Satisfied,4,Almost always,Slightly stressed
+18-24,Female,Employee,Customer Service,7.7,6,6.5,30-60 min,7,Moderate,9,High,No,None,Satisfied,5,Often,Not stressed
+<18,Female,Student,Arts,7.8,3,6.2,< 30 min,4,Moderate,2,Low,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone",Dissatisfied,7,Rarely,Slightly stressed
+18-24,Female,Student,Business,8.7,1,6.5,30-60 min,4,Hard,8,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,4,Almost always,Slightly stressed
+25-35,Female,Student,Business,8.2,1,1.3,< 30 min,5,Easy,5,High,Yes,"Transportation problem / car issue, Arguing/conflict with someone, Personal disappointment",Satisfied,4,Often,Not stressed
+18-24,Female,Both,Computer Science,4.5,8,1.0,30-60 min,13,Hard,2,Medium,No,None,Satisfied,4,Almost always,Not stressed
+18-24,Male,Student,Psychology,7.3,2,2.5,1 hour,2,Easy,5,High,No,None,Satisfied,2,Often,Not stressed
+18-24,Female,Employee,Engineering,7.4,7,4.1,1 hour,9,Moderate,5,High,No,None,Satisfied,3,Almost always,Highly stressed
+25-35,Female,Student,Law,8.2,2,2.0,< 30 min,6,Easy,2,Medium,No,None,Satisfied,1,Almost always,Slightly stressed
+25-35,Female,Employee,Customer Service,5.9,6,2.5,30-60 min,5,Hard,8,High,Yes,"Arguing/conflict with someone, Bad weather, Personal disappointment",Dissatisfied,3,Rarely,Slightly stressed
+25-35,Female,Student,Law,7.9,2,2.4,< 30 min,2,Moderate,6,High,Yes,"Transportation problem / car issue, Health-related stress, Bad weather",Satisfied,4,Rarely,Highly stressed
+25-35,Female,Student,Engineering,6.4,3,4.3,> 2 hours,2,Easy,2,Medium,Yes,Arguing/conflict with someone,Satisfied,6,Often,Highly stressed
+25-35,Female,Employee,Healthcare,5.5,9,5.5,30-60 min,8,Moderate,2,High,Yes,"Bad weather, Health-related stress",Satisfied,9,Almost always,Slightly stressed
+25-35,Male,Student,Computer Science,7.0,2,1.9,30-60 min,4,Moderate,10,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment",Satisfied,9,Almost always,Slightly stressed
+25-35,Female,Employee,Healthcare,7.2,9,1.6,1 hour,7,Moderate,10,High,No,None,Satisfied,3,Often,Slightly stressed
+36+,Male,Both,Healthcare,4.8,11,4.9,> 2 hours,9,Moderate,6,Medium,No,None,Satisfied,5,Almost always,Not stressed
+18-24,Female,Employee,Other,5.4,7,4.5,30-60 min,8,Easy,7,High,Yes,"Health-related stress, Arguing/conflict with someone, Transportation problem / car issue",Dissatisfied,3,Almost always,Slightly stressed
+25-35,Male,Both,Finance,6.8,10,3.9,30-60 min,12,Hard,9,Medium,No,None,Satisfied,3,Never,Slightly stressed
+18-24,Female,Student,Psychology,8.0,0,2.0,< 30 min,4,Moderate,9,Low,Yes,"Bad weather, Financial stress",Satisfied,7,Almost always,Highly stressed
+25-35,Male,Student,Computer Science,7.5,3,3.7,< 30 min,2,Moderate,10,High,Yes,"Arguing/conflict with someone, Academic/work failure or poor performance, Health-related stress",Satisfied,3,Almost always,Highly stressed
+<18,Male,Both,Business,5.8,11,2.8,1 hour,13,Easy,10,High,No,None,Satisfied,1,Often,Highly stressed
+18-24,Male,Neither,None,8.4,2,6.5,< 30 min,1,Easy,1,Low,No,None,Satisfied,1,Often,Slightly stressed
+25-35,Female,Student,Psychology,7.9,2,2.6,30-60 min,2,Hard,9,Medium,No,None,Satisfied,2,Rarely,Slightly stressed
+18-24,Male,Student,Education,5.2,3,0.7,< 30 min,4,Easy,3,Low,Yes,"Personal disappointment, Financial stress, Arguing/conflict with someone",Satisfied,3,Never,Slightly stressed
+36+,Female,Student,Psychology,8.1,2,3.3,30-60 min,4,Easy,1,Low,No,None,Dissatisfied,3,Almost always,Slightly stressed
+36+,Male,Employee,Customer Service,6.3,6,1.0,30-60 min,5,Easy,5,Medium,Yes,Academic/work failure or poor performance,Dissatisfied,4,Often,Highly stressed
+36+,Male,Student,Biology,7.3,2,3.4,30-60 min,7,Moderate,6,Low,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Satisfied,4,Never,Slightly stressed
+18-24,Female,Employee,Engineering,6.1,8,1.7,30-60 min,9,Moderate,9,Medium,Yes,"Health-related stress, Academic/work failure or poor performance",Satisfied,7,Often,Slightly stressed
+18-24,Male,Student,Medicine,5.2,1,3.3,< 30 min,7,Moderate,6,Medium,No,None,Satisfied,3,Never,Slightly stressed
+18-24,Female,Both,IT,4.3,8,6.7,1 hour,14,Hard,10,Low,Yes,Transportation problem / car issue,Dissatisfied,9,Never,Slightly stressed
+25-35,Female,Student,Education,5.4,0,2.8,< 30 min,4,Moderate,3,High,Yes,"Transportation problem / car issue, Bad weather, Health-related stress",Satisfied,7,Often,Slightly stressed
+18-24,Male,Employee,Engineering,7.5,9,3.6,1 hour,7,Easy,8,Medium,Yes,Financial stress,Satisfied,4,Often,Highly stressed
+18-24,Male,Employee,Administration,7.8,7,6.3,1 hour,8,Moderate,5,High,Yes,"Bad weather, Arguing/conflict with someone",Dissatisfied,6,Almost always,Slightly stressed
+<18,Male,Student,Education,7.4,1,7.0,< 30 min,4,Easy,7,High,No,None,Satisfied,5,Rarely,Not stressed
+36+,Female,Neither,None,8.7,1,4.1,1 hour,4,Moderate,1,Medium,Yes,"Transportation problem / car issue, Personal disappointment, Arguing/conflict with someone",Satisfied,6,Almost always,Slightly stressed
+18-24,Female,Student,Engineering,6.0,3,1.5,< 30 min,2,Easy,3,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Health-related stress",Satisfied,9,Rarely,Slightly stressed
+18-24,Female,Both,IT,6.0,11,5.9,> 2 hours,12,Easy,8,Medium,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Male,Student,Law,6.2,1,7.0,> 2 hours,6,Easy,8,Medium,Yes,"Personal disappointment, Health-related stress",Satisfied,8,Often,Highly stressed
+<18,Male,Neither,None,8.4,1,3.8,30-60 min,1,Hard,4,High,No,None,Satisfied,3,Often,Highly stressed
+25-35,Female,Both,Medicine,6.3,9,2.4,1 hour,10,Hard,6,Medium,Yes,Arguing/conflict with someone,Satisfied,7,Often,Slightly stressed
+18-24,Female,Student,Education,6.4,1,3.5,1 hour,2,Moderate,9,Medium,No,None,Satisfied,3,Almost always,Slightly stressed
+18-24,Female,Both,Education,5.2,9,5.3,< 30 min,13,Easy,4,Medium,Yes,"Personal disappointment, Financial stress, Health-related stress",Dissatisfied,8,Often,Not stressed
+25-35,Female,Student,Psychology,5.2,3,5.3,< 30 min,3,Moderate,4,Low,No,None,Dissatisfied,5,Never,Slightly stressed
+18-24,Female,Employee,Engineering,5.5,9,2.4,30-60 min,10,Easy,5,Medium,No,None,Satisfied,1,Never,Slightly stressed
+36+,Female,Both,Engineering,4.6,9,1.4,< 30 min,12,Moderate,6,Medium,Yes,"Health-related stress, Academic/work failure or poor performance, Personal disappointment",Satisfied,3,Rarely,Slightly stressed
+36+,Male,Both,Law,4.6,10,4.4,30-60 min,13,Easy,5,Medium,No,None,Satisfied,3,Often,Highly stressed
+18-24,Female,Both,Administration,6.7,8,3.2,< 30 min,12,Hard,4,Low,No,None,Satisfied,2,Never,Slightly stressed
+25-35,Male,Employee,Finance,7.0,7,3.3,< 30 min,11,Easy,3,Medium,No,None,Satisfied,4,Almost always,Highly stressed
+18-24,Female,Student,Business,8.9,1,2.4,1 hour,2,Moderate,1,High,Yes,Financial stress,Satisfied,8,Often,Slightly stressed
+18-24,Female,Student,Biology,5.1,0,6.0,< 30 min,3,Hard,9,Low,Yes,Personal disappointment,Satisfied,8,Rarely,Not stressed
+25-35,Female,Student,Law,8.6,2,3.8,30-60 min,7,Easy,4,Low,No,None,Satisfied,2,Rarely,Highly stressed
+18-24,Male,Employee,Customer Service,5.2,8,3.4,1 hour,5,Hard,8,High,Yes,"Financial stress, Transportation problem / car issue",Dissatisfied,7,Never,Slightly stressed
+18-24,Female,Employee,Customer Service,7.0,8,6.7,< 30 min,6,Moderate,2,High,No,None,Dissatisfied,5,Often,Highly stressed
+36+,Male,Student,Computer Science,6.9,0,4.2,< 30 min,6,Easy,1,Medium,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,3,Often,Slightly stressed
+18-24,Male,Student,Law,5.9,0,6.8,30-60 min,7,Easy,7,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+18-24,Male,Both,Other,5.6,11,5.1,1 hour,12,Easy,6,Medium,Yes,Health-related stress,Satisfied,5,Never,Highly stressed
+18-24,Male,Employee,Finance,6.9,7,6.6,1 hour,5,Moderate,2,Medium,Yes,Financial stress,Satisfied,6,Rarely,Highly stressed
+25-35,Male,Both,Administration,7.0,11,0.5,30-60 min,9,Hard,5,High,No,None,Satisfied,3,Often,Not stressed
+<18,Male,Neither,None,8.5,0,3.6,< 30 min,3,Moderate,1,High,Yes,"Health-related stress, Academic/work failure or poor performance, Bad weather",Satisfied,4,Almost always,Not stressed
+36+,Female,Student,Business,8.5,0,3.6,< 30 min,5,Moderate,1,Medium,Yes,"Health-related stress, Bad weather",Satisfied,9,Almost always,Slightly stressed
+36+,Male,Both,Administration,5.9,11,1.0,< 30 min,12,Moderate,4,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment, Bad weather",Satisfied,3,Often,Highly stressed
+18-24,Female,Both,Teaching,5.4,9,3.9,30-60 min,13,Easy,9,Low,Yes,"Financial stress, Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,6,Almost always,Slightly stressed
+18-24,Male,Student,Arts,8.2,3,1.9,30-60 min,2,Easy,5,Medium,No,None,Satisfied,3,Never,Slightly stressed
+18-24,Female,Employee,Finance,5.5,9,4.1,30-60 min,5,Easy,7,Low,Yes,Financial stress,Satisfied,7,Often,Slightly stressed
+18-24,Male,Both,Engineering,5.2,9,6.4,30-60 min,10,Moderate,6,Medium,Yes,"Health-related stress, Arguing/conflict with someone, Academic/work failure or poor performance",Satisfied,7,Often,Slightly stressed
+36+,Male,Both,Arts,4.9,11,2.0,< 30 min,14,Easy,8,High,Yes,"Bad weather, Academic/work failure or poor performance",Dissatisfied,8,Rarely,Slightly stressed
+18-24,Female,Student,Business,8.3,2,2.5,< 30 min,5,Moderate,4,Low,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Personal disappointment",Dissatisfied,6,Often,Highly stressed
+<18,Female,Student,Arts,7.2,0,5.3,< 30 min,4,Moderate,4,Medium,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,8,Almost always,Slightly stressed
+25-35,Female,Employee,Finance,5.2,9,6.3,30-60 min,6,Moderate,7,Medium,Yes,"Bad weather, Health-related stress, Transportation problem / car issue",Satisfied,9,Often,Slightly stressed
+18-24,Male,Student,Education,8.9,0,6.2,< 30 min,2,Easy,4,Medium,Yes,Bad weather,Dissatisfied,5,Often,Slightly stressed
+25-35,Male,Both,Healthcare,5.2,9,2.4,1 hour,11,Moderate,2,Medium,No,None,Satisfied,2,Rarely,Highly stressed
+25-35,Male,Employee,Engineering,6.8,7,3.0,< 30 min,8,Hard,5,Low,No,None,Dissatisfied,1,Almost always,Highly stressed
+25-35,Female,Employee,Engineering,6.1,7,2.4,30-60 min,7,Hard,1,Medium,Yes,Arguing/conflict with someone,Satisfied,8,Often,Slightly stressed
+18-24,Male,Neither,None,8.6,0,4.3,1 hour,2,Easy,8,Low,No,None,Satisfied,4,Often,Slightly stressed
+18-24,Female,Neither,None,8.2,0,5.4,< 30 min,1,Hard,10,Medium,Yes,Academic/work failure or poor performance,Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Both,Teaching,4.5,9,6.0,30-60 min,10,Easy,6,Low,Yes,Bad weather,Satisfied,3,Often,Highly stressed
+25-35,Male,Both,Administration,6.3,11,3.8,1 hour,13,Moderate,1,High,Yes,"Financial stress, Transportation problem / car issue, Bad weather",Dissatisfied,5,Often,Not stressed
+25-35,Female,Employee,Freelancing,8.0,9,1.7,1 hour,10,Easy,8,Medium,No,None,Satisfied,2,Rarely,Highly stressed
+18-24,Male,Both,Computer Science,6.5,8,5.6,> 2 hours,10,Moderate,10,Medium,No,None,Dissatisfied,4,Rarely,Slightly stressed
+18-24,Male,Both,Customer Service,6.6,10,5.1,30-60 min,9,Hard,1,Medium,Yes,"Financial stress, Academic/work failure or poor performance, Bad weather",Dissatisfied,8,Often,Highly stressed
+25-35,Male,Employee,IT,5.1,8,1.6,< 30 min,10,Easy,8,Medium,Yes,Academic/work failure or poor performance,Satisfied,4,Often,Not stressed
+<18,Female,Student,Biology,7.8,2,5.0,< 30 min,4,Easy,10,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Bad weather",Dissatisfied,5,Often,Highly stressed
+36+,Female,Both,Administration,6.7,10,1.1,< 30 min,10,Moderate,4,Medium,Yes,"Bad weather, Personal disappointment, Academic/work failure or poor performance",Satisfied,8,Rarely,Slightly stressed
+18-24,Male,Student,Psychology,5.5,0,6.1,30-60 min,7,Easy,1,Medium,Yes,"Bad weather, Financial stress, Personal disappointment",Satisfied,5,Often,Highly stressed
+25-35,Female,Student,Arts,8.4,1,6.3,30-60 min,3,Hard,10,Medium,Yes,"Health-related stress, Transportation problem / car issue, Academic/work failure or poor performance",Dissatisfied,5,Almost always,Highly stressed
+25-35,Male,Both,Law,5.1,9,6.0,1 hour,13,Easy,5,High,Yes,"Personal disappointment, Bad weather",Satisfied,5,Rarely,Highly stressed
+25-35,Male,Employee,Finance,6.6,6,6.6,1 hour,5,Easy,3,Medium,No,None,Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Student,Education,7.1,0,4.2,< 30 min,6,Moderate,7,Medium,No,None,Satisfied,2,Rarely,Slightly stressed
+25-35,Female,Employee,Customer Service,6.8,6,1.2,1 hour,5,Moderate,7,Low,Yes,Academic/work failure or poor performance,Satisfied,9,Often,Slightly stressed
+<18,Female,Student,Business,6.1,1,6.2,1 hour,2,Moderate,4,Low,No,None,Satisfied,1,Almost always,Slightly stressed
+36+,Male,Student,Engineering,6.1,3,2.2,< 30 min,7,Hard,10,Medium,Yes,Academic/work failure or poor performance,Satisfied,7,Often,Highly stressed
+18-24,Male,Both,Engineering,4.1,11,6.3,30-60 min,8,Easy,3,Medium,Yes,Personal disappointment,Dissatisfied,6,Almost always,Not stressed
+18-24,Female,Employee,Administration,7.7,9,2.6,1 hour,9,Moderate,2,Medium,No,None,Satisfied,5,Often,Slightly stressed
+25-35,Female,Employee,Teaching,5.4,9,5.3,> 2 hours,7,Easy,6,High,No,None,Satisfied,5,Almost always,Highly stressed
+18-24,Female,Employee,Other,7.6,8,3.2,1 hour,6,Easy,5,High,No,None,Satisfied,1,Rarely,Highly stressed
+<18,Female,Both,Biology,5.6,8,4.0,30-60 min,13,Moderate,9,Low,Yes,Transportation problem / car issue,Dissatisfied,7,Almost always,Not stressed
+36+,Male,Neither,None,8.8,1,6.1,< 30 min,3,Easy,5,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Satisfied,7,Often,Not stressed
+25-35,Male,Employee,Healthcare,7.1,9,3.8,30-60 min,10,Moderate,6,Medium,Yes,"Academic/work failure or poor performance, Bad weather, Arguing/conflict with someone",Dissatisfied,9,Almost always,Not stressed
+18-24,Female,Employee,Engineering,6.0,9,6.5,1 hour,10,Hard,5,High,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Female,Both,Customer Service,5.9,11,3.7,30-60 min,14,Moderate,1,High,No,None,Satisfied,1,Rarely,Slightly stressed
+18-24,Male,Both,Law,4.5,9,5.2,1 hour,12,Moderate,4,Medium,Yes,Personal disappointment,Satisfied,7,Almost always,Slightly stressed
+18-24,Female,Student,Medicine,8.2,1,1.7,< 30 min,5,Easy,2,High,No,None,Satisfied,5,Rarely,Slightly stressed
+25-35,Female,Student,Education,6.4,2,4.1,< 30 min,6,Hard,10,Medium,Yes,"Personal disappointment, Health-related stress, Transportation problem / car issue",Satisfied,9,Never,Slightly stressed
+<18,Female,Student,Education,7.0,0,3.8,30-60 min,2,Easy,2,Low,No,None,Dissatisfied,4,Rarely,Not stressed
+36+,Male,Student,Business,7.5,1,4.1,< 30 min,2,Hard,10,Low,Yes,"Academic/work failure or poor performance, Personal disappointment",Dissatisfied,7,Often,Slightly stressed
+<18,Male,Student,Medicine,8.4,1,2.4,< 30 min,3,Hard,4,Medium,No,None,Satisfied,3,Never,Slightly stressed
+36+,Male,Student,Engineering,8.1,2,6.5,< 30 min,7,Moderate,7,Low,No,None,Satisfied,5,Rarely,Slightly stressed
+25-35,Female,Student,Engineering,8.9,0,4.0,1 hour,4,Hard,8,Low,Yes,"Bad weather, Arguing/conflict with someone",Satisfied,5,Rarely,Slightly stressed
+25-35,Female,Neither,None,6.7,2,4.7,1 hour,2,Hard,5,Medium,No,None,Satisfied,3,Often,Not stressed
+36+,Male,Both,Teaching,4.6,11,6.6,30-60 min,8,Easy,3,Low,Yes,"Health-related stress, Personal disappointment, Transportation problem / car issue",Satisfied,5,Often,Slightly stressed
+18-24,Male,Student,Education,5.5,2,6.6,30-60 min,5,Hard,9,High,No,None,Satisfied,3,Never,Slightly stressed
+18-24,Male,Employee,Other,7.2,8,0.8,30-60 min,7,Easy,3,High,No,None,Satisfied,4,Rarely,Slightly stressed
+25-35,Male,Employee,Administration,6.6,9,4.4,1 hour,9,Moderate,5,High,Yes,"Financial stress, Health-related stress",Satisfied,4,Often,Not stressed
+25-35,Female,Student,Engineering,7.0,1,1.0,30-60 min,3,Moderate,7,Low,No,None,Satisfied,2,Often,Slightly stressed
+18-24,Female,Employee,Engineering,7.5,6,6.8,> 2 hours,9,Easy,2,Medium,Yes,"Financial stress, Bad weather, Health-related stress",Satisfied,9,Almost always,Slightly stressed
+18-24,Male,Student,Biology,5.7,3,3.8,< 30 min,5,Easy,3,Low,Yes,"Health-related stress, Arguing/conflict with someone, Financial stress",Satisfied,5,Often,Slightly stressed
+25-35,Female,Student,Education,8.0,1,6.2,30-60 min,2,Easy,7,Medium,No,None,Satisfied,5,Often,Highly stressed
+18-24,Female,Student,Arts,8.3,3,0.8,< 30 min,5,Easy,5,Low,Yes,Personal disappointment,Dissatisfied,8,Often,Slightly stressed
+25-35,Female,Employee,Finance,6.8,7,1.8,30-60 min,5,Moderate,5,High,No,None,Dissatisfied,4,Rarely,Highly stressed
+36+,Male,Employee,Teaching,6.3,6,3.3,30-60 min,6,Easy,4,Medium,Yes,"Bad weather, Arguing/conflict with someone",Satisfied,9,Often,Not stressed
+36+,Male,Employee,Finance,5.2,9,5.0,30-60 min,8,Moderate,10,Low,Yes,Financial stress,Satisfied,7,Rarely,Slightly stressed
+25-35,Male,Employee,Customer Service,5.3,8,4.5,> 2 hours,10,Moderate,7,Low,No,None,Satisfied,5,Rarely,Highly stressed
+25-35,Male,Student,Business,6.9,0,5.9,< 30 min,3,Moderate,6,Low,Yes,"Personal disappointment, Health-related stress, Arguing/conflict with someone",Satisfied,9,Rarely,Not stressed
+<18,Male,Employee,Customer Service,7.1,8,4.1,30-60 min,5,Easy,4,Medium,Yes,"Personal disappointment, Financial stress, Arguing/conflict with someone",Satisfied,6,Often,Highly stressed
+36+,Male,Student,Psychology,8.1,1,2.7,< 30 min,4,Moderate,4,High,Yes,Transportation problem / car issue,Dissatisfied,9,Almost always,Highly stressed
+36+,Male,Student,Medicine,6.9,2,2.0,< 30 min,6,Easy,6,High,Yes,"Personal disappointment, Transportation problem / car issue",Satisfied,5,Often,Slightly stressed
+<18,Female,Both,Arts,4.2,9,2.8,1 hour,13,Easy,5,Medium,No,None,Dissatisfied,2,Rarely,Slightly stressed
+36+,Male,Student,Engineering,6.5,2,0.7,< 30 min,7,Hard,7,High,No,None,Dissatisfied,1,Rarely,Not stressed
+25-35,Male,Employee,Teaching,6.7,6,6.8,1 hour,7,Moderate,8,High,No,None,Satisfied,2,Often,Slightly stressed
+<18,Male,Neither,None,8.0,1,1.3,> 2 hours,3,Easy,1,Medium,Yes,"Personal disappointment, Academic/work failure or poor performance",Dissatisfied,6,Often,Slightly stressed
+36+,Male,Employee,Teaching,5.2,6,6.4,30-60 min,11,Easy,4,Medium,Yes,"Transportation problem / car issue, Financial stress",Satisfied,5,Often,Highly stressed
+18-24,Male,Employee,IT,5.1,8,2.8,> 2 hours,8,Moderate,10,Medium,No,None,Satisfied,1,Never,Not stressed
+18-24,Male,Employee,IT,7.2,9,2.9,> 2 hours,11,Moderate,10,High,No,None,Satisfied,5,Almost always,Slightly stressed
+36+,Female,Student,Computer Science,5.9,0,3.6,< 30 min,6,Hard,4,Medium,No,None,Satisfied,2,Rarely,Not stressed
+36+,Female,Student,Engineering,9.0,0,6.2,30-60 min,5,Easy,9,High,No,None,Dissatisfied,1,Often,Highly stressed
+<18,Male,Student,Medicine,7.4,1,0.6,30-60 min,5,Moderate,2,Medium,Yes,Health-related stress,Satisfied,7,Never,Slightly stressed
+25-35,Male,Student,Biology,6.4,0,3.9,1 hour,2,Moderate,9,Medium,No,None,Satisfied,5,Often,Highly stressed
+25-35,Female,Employee,Engineering,7.7,9,1.8,1 hour,8,Moderate,9,Low,No,None,Satisfied,4,Almost always,Not stressed
+25-35,Male,Employee,Freelancing,7.7,6,4.2,30-60 min,8,Easy,10,High,No,None,Satisfied,3,Often,Not stressed
+36+,Male,Employee,Teaching,5.4,8,6.3,1 hour,11,Easy,9,Medium,No,None,Satisfied,3,Almost always,Slightly stressed
+18-24,Female,Student,Arts,8.2,1,1.3,< 30 min,5,Moderate,7,Medium,No,None,Satisfied,3,Never,Not stressed
+25-35,Male,Student,Biology,7.2,3,1.7,< 30 min,2,Easy,10,High,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Female,Employee,Finance,6.5,9,5.2,30-60 min,11,Easy,3,Medium,Yes,"Academic/work failure or poor performance, Personal disappointment, Health-related stress",Satisfied,6,Often,Highly stressed
+18-24,Female,Student,Medicine,6.0,1,1.8,30-60 min,6,Hard,2,Medium,Yes,Health-related stress,Satisfied,5,Rarely,Not stressed
+18-24,Female,Employee,Other,7.5,6,6.4,> 2 hours,8,Moderate,10,High,Yes,"Arguing/conflict with someone, Academic/work failure or poor performance, Financial stress",Satisfied,6,Never,Slightly stressed
+18-24,Male,Student,Biology,6.7,3,6.1,30-60 min,6,Moderate,9,Medium,Yes,"Financial stress, Academic/work failure or poor performance, Personal disappointment",Satisfied,9,Almost always,Not stressed
+<18,Male,Both,Other,6.0,10,2.9,30-60 min,9,Easy,10,High,Yes,"Transportation problem / car issue, Personal disappointment",Satisfied,7,Often,Slightly stressed
+18-24,Male,Employee,Engineering,5.9,9,4.3,30-60 min,5,Easy,6,High,Yes,Academic/work failure or poor performance,Dissatisfied,7,Often,Highly stressed
+25-35,Female,Both,Other,5.0,10,4.6,30-60 min,12,Moderate,7,High,Yes,"Financial stress, Health-related stress",Satisfied,4,Almost always,Highly stressed
+18-24,Female,Both,Law,6.8,9,3.2,30-60 min,13,Easy,1,Medium,No,None,Satisfied,3,Often,Slightly stressed
+36+,Female,Employee,Finance,8.0,6,6.4,< 30 min,9,Hard,2,Low,Yes,Personal disappointment,Satisfied,6,Rarely,Slightly stressed
+18-24,Female,Employee,Other,7.5,7,4.4,1 hour,5,Moderate,3,Low,Yes,Transportation problem / car issue,Satisfied,9,Never,Slightly stressed
+18-24,Male,Employee,Finance,6.8,7,1.7,> 2 hours,8,Moderate,3,Medium,No,None,Satisfied,2,Often,Highly stressed
+18-24,Female,Student,Law,8.9,2,2.0,< 30 min,7,Easy,6,Medium,Yes,"Health-related stress, Bad weather",Satisfied,8,Often,Not stressed
+36+,Male,Both,Engineering,4.5,11,5.6,30-60 min,12,Easy,3,Medium,Yes,"Bad weather, Academic/work failure or poor performance, Arguing/conflict with someone",Dissatisfied,3,Often,Highly stressed
+25-35,Female,Employee,Customer Service,8.0,8,6.2,< 30 min,11,Easy,3,Medium,Yes,Arguing/conflict with someone,Dissatisfied,9,Often,Slightly stressed
+18-24,Male,Neither,None,7.5,1,4.5,1 hour,3,Easy,10,Medium,Yes,"Personal disappointment, Health-related stress, Transportation problem / car issue",Satisfied,9,Rarely,Slightly stressed
+36+,Female,Student,Law,8.1,1,5.6,> 2 hours,2,Moderate,4,High,Yes,Financial stress,Dissatisfied,6,Often,Highly stressed
+18-24,Female,Both,Administration,5.9,10,3.8,30-60 min,11,Moderate,5,High,No,None,Dissatisfied,1,Often,Slightly stressed
+<18,Female,Employee,Engineering,5.9,7,2.2,1 hour,8,Hard,9,Medium,No,None,Satisfied,3,Almost always,Slightly stressed
+<18,Female,Employee,Administration,8.0,8,6.4,1 hour,11,Easy,1,High,No,None,Dissatisfied,3,Rarely,Slightly stressed
+18-24,Male,Employee,Finance,5.7,6,4.7,30-60 min,5,Hard,4,High,Yes,"Personal disappointment, Health-related stress, Financial stress",Satisfied,5,Rarely,Highly stressed
+18-24,Female,Both,Business,5.6,10,2.9,30-60 min,14,Moderate,2,High,No,None,Satisfied,2,Often,Slightly stressed
+25-35,Male,Both,Healthcare,5.2,9,2.2,30-60 min,11,Moderate,4,Medium,No,None,Satisfied,4,Often,Highly stressed
+18-24,Female,Student,Medicine,7.9,1,2.7,< 30 min,5,Hard,5,High,Yes,"Academic/work failure or poor performance, Personal disappointment, Financial stress",Dissatisfied,5,Almost always,Slightly stressed
+25-35,Female,Student,Business,5.5,2,2.8,< 30 min,4,Easy,1,Low,Yes,"Arguing/conflict with someone, Academic/work failure or poor performance",Dissatisfied,8,Often,Slightly stressed
+<18,Male,Both,Biology,4.7,10,4.0,< 30 min,10,Easy,8,Medium,Yes,"Financial stress, Health-related stress",Dissatisfied,9,Often,Slightly stressed
+18-24,Male,Employee,Freelancing,7.4,6,1.5,30-60 min,5,Easy,3,High,No,None,Dissatisfied,4,Rarely,Not stressed
+18-24,Male,Student,Law,6.4,2,6.8,1 hour,2,Easy,3,Medium,No,None,Satisfied,2,Almost always,Slightly stressed
+25-35,Male,Both,Healthcare,6.5,10,3.7,1 hour,14,Moderate,6,High,Yes,Academic/work failure or poor performance,Satisfied,4,Often,Slightly stressed
+18-24,Male,Both,Engineering,6.2,10,1.7,< 30 min,12,Easy,3,Medium,Yes,Academic/work failure or poor performance,Satisfied,4,Often,Not stressed
+25-35,Female,Student,Psychology,7.5,1,1.7,30-60 min,4,Moderate,9,Medium,Yes,"Arguing/conflict with someone, Personal disappointment, Transportation problem / car issue",Dissatisfied,8,Often,Not stressed
+36+,Male,Employee,Teaching,7.4,6,0.9,1 hour,5,Easy,5,Medium,Yes,"Health-related stress, Personal disappointment",Satisfied,8,Almost always,Slightly stressed
+25-35,Male,Employee,Engineering,6.6,8,2.7,1 hour,5,Easy,10,Low,Yes,"Health-related stress, Academic/work failure or poor performance",Dissatisfied,4,Rarely,Highly stressed
+25-35,Female,Both,Administration,5.6,9,6.6,< 30 min,10,Moderate,2,High,No,None,Satisfied,5,Rarely,Slightly stressed
+18-24,Female,Student,Education,6.9,0,4.8,30-60 min,4,Easy,8,Medium,Yes,Academic/work failure or poor performance,Satisfied,8,Never,Slightly stressed
+18-24,Female,Student,Law,7.6,2,3.1,30-60 min,4,Moderate,7,Medium,Yes,Arguing/conflict with someone,Satisfied,9,Often,Slightly stressed
+25-35,Male,Employee,Customer Service,7.8,7,5.9,30-60 min,5,Easy,3,Medium,No,None,Dissatisfied,2,Almost always,Highly stressed
+18-24,Female,Both,Other,4.5,11,4.8,30-60 min,11,Easy,6,Medium,Yes,"Bad weather, Transportation problem / car issue, Arguing/conflict with someone",Satisfied,9,Often,Highly stressed
+18-24,Female,Employee,Engineering,7.4,7,1.8,> 2 hours,11,Hard,7,Medium,Yes,"Personal disappointment, Bad weather",Satisfied,6,Often,Not stressed
+18-24,Female,Employee,Engineering,6.9,7,3.4,30-60 min,10,Hard,6,High,Yes,"Bad weather, Arguing/conflict with someone, Financial stress",Dissatisfied,7,Often,Slightly stressed
+25-35,Male,Employee,Engineering,6.4,8,0.6,1 hour,9,Easy,4,Medium,Yes,"Academic/work failure or poor performance, Bad weather",Satisfied,7,Rarely,Highly stressed
+25-35,Male,Student,Law,8.3,0,2.8,1 hour,7,Easy,2,Medium,Yes,"Health-related stress, Personal disappointment, Bad weather",Satisfied,5,Often,Not stressed
+18-24,Female,Student,Law,7.8,3,4.6,30-60 min,2,Moderate,10,Medium,Yes,"Personal disappointment, Arguing/conflict with someone",Satisfied,9,Never,Slightly stressed
+25-35,Male,Both,Healthcare,6.9,9,4.3,30-60 min,14,Hard,1,Medium,Yes,"Financial stress, Arguing/conflict with someone, Academic/work failure or poor performance",Satisfied,5,Rarely,Slightly stressed
+36+,Male,Student,Law,8.6,0,4.3,< 30 min,3,Hard,7,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+25-35,Male,Student,Computer Science,6.1,0,2.3,1 hour,6,Easy,9,High,Yes,"Transportation problem / car issue, Financial stress, Health-related stress",Satisfied,6,Often,Highly stressed
+25-35,Male,Student,Law,5.1,3,6.1,< 30 min,4,Easy,8,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+18-24,Male,Both,Other,4.1,8,1.6,30-60 min,14,Hard,7,High,Yes,Arguing/conflict with someone,Satisfied,6,Almost always,Highly stressed
+<18,Female,Employee,Other,7.8,7,3.2,< 30 min,5,Easy,6,Low,Yes,Academic/work failure or poor performance,Dissatisfied,6,Rarely,Slightly stressed
+18-24,Male,Both,Administration,4.6,8,5.8,30-60 min,12,Hard,4,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+25-35,Male,Both,Engineering,6.8,8,2.3,30-60 min,11,Moderate,5,Medium,Yes,Health-related stress,Satisfied,9,Almost always,Slightly stressed
+18-24,Female,Employee,Engineering,7.6,6,2.7,30-60 min,5,Moderate,6,Low,No,None,Satisfied,1,Rarely,Slightly stressed
+18-24,Male,Student,Medicine,6.1,2,4.6,30-60 min,7,Moderate,2,High,Yes,"Arguing/conflict with someone, Academic/work failure or poor performance",Dissatisfied,6,Almost always,Slightly stressed
+25-35,Male,Both,Customer Service,6.1,8,1.6,30-60 min,12,Easy,2,High,Yes,Health-related stress,Satisfied,3,Never,Slightly stressed
+25-35,Male,Employee,Freelancing,6.9,8,6.6,> 2 hours,9,Hard,10,Medium,Yes,"Bad weather, Financial stress, Transportation problem / car issue",Satisfied,4,Rarely,Slightly stressed
+18-24,Female,Student,Psychology,7.0,3,5.0,30-60 min,7,Hard,10,High,Yes,"Arguing/conflict with someone, Bad weather",Satisfied,5,Often,Slightly stressed
+18-24,Male,Student,Engineering,5.9,0,2.4,30-60 min,4,Easy,1,Medium,Yes,Personal disappointment,Satisfied,9,Rarely,Highly stressed
+36+,Female,Employee,Teaching,5.6,7,6.3,30-60 min,6,Moderate,7,Low,Yes,Academic/work failure or poor performance,Satisfied,4,Rarely,Slightly stressed
+25-35,Female,Student,Psychology,8.4,2,4.8,> 2 hours,7,Easy,9,Medium,Yes,"Transportation problem / car issue, Financial stress, Health-related stress",Satisfied,5,Almost always,Slightly stressed
+25-35,Male,Employee,Other,7.6,6,5.0,30-60 min,5,Moderate,6,Low,No,None,Satisfied,5,Often,Highly stressed
+36+,Female,Neither,None,6.3,0,7.0,< 30 min,3,Hard,10,Medium,Yes,"Bad weather, Financial stress, Academic/work failure or poor performance",Satisfied,8,Almost always,Slightly stressed
+<18,Male,Student,Arts,7.5,3,1.9,< 30 min,6,Moderate,2,High,No,None,Satisfied,1,Almost always,Not stressed
+18-24,Male,Employee,Freelancing,5.8,9,5.6,1 hour,9,Moderate,5,Medium,No,None,Satisfied,2,Rarely,Highly stressed
+36+,Male,Both,Psychology,4.7,11,0.8,30-60 min,13,Easy,2,High,Yes,"Health-related stress, Financial stress",Satisfied,3,Rarely,Highly stressed
+18-24,Female,Student,Engineering,8.7,3,1.9,> 2 hours,5,Easy,5,High,Yes,"Arguing/conflict with someone, Bad weather",Satisfied,7,Almost always,Slightly stressed
+18-24,Male,Employee,Healthcare,7.6,7,4.2,30-60 min,10,Easy,1,High,No,None,Dissatisfied,4,Often,Slightly stressed
+25-35,Male,Employee,Finance,5.5,9,6.5,> 2 hours,9,Moderate,7,Low,Yes,"Transportation problem / car issue, Bad weather",Dissatisfied,4,Almost always,Highly stressed
+25-35,Female,Student,Biology,7.2,2,2.2,30-60 min,7,Moderate,5,Medium,Yes,"Bad weather, Arguing/conflict with someone",Satisfied,5,Never,Not stressed
+36+,Male,Employee,Engineering,7.2,8,0.9,30-60 min,9,Moderate,2,High,No,None,Satisfied,1,Often,Not stressed
+36+,Male,Employee,Freelancing,5.4,8,4.4,< 30 min,10,Moderate,3,Low,Yes,"Bad weather, Financial stress",Satisfied,9,Rarely,Slightly stressed
+36+,Female,Student,Psychology,8.1,2,1.5,< 30 min,4,Easy,6,Medium,No,None,Satisfied,3,Often,Highly stressed
+18-24,Female,Employee,Engineering,6.4,8,2.0,< 30 min,9,Moderate,5,Medium,No,None,Dissatisfied,3,Often,Slightly stressed
+18-24,Female,Employee,IT,6.1,7,3.7,30-60 min,8,Easy,9,High,Yes,Transportation problem / car issue,Satisfied,5,Never,Highly stressed
+18-24,Male,Student,Business,5.2,0,6.5,1 hour,4,Moderate,6,Medium,No,None,Satisfied,1,Rarely,Highly stressed
+18-24,Male,Student,Engineering,5.5,0,5.6,< 30 min,3,Moderate,9,Medium,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone",Dissatisfied,9,Almost always,Highly stressed
+25-35,Male,Student,Medicine,7.0,3,1.1,< 30 min,7,Hard,6,Low,Yes,"Bad weather, Transportation problem / car issue, Health-related stress",Satisfied,5,Never,Slightly stressed
+18-24,Male,Student,Education,6.9,2,2.8,< 30 min,2,Moderate,7,High,No,None,Satisfied,1,Never,Highly stressed
+25-35,Male,Student,Computer Science,8.7,2,3.7,< 30 min,2,Easy,3,Low,Yes,"Personal disappointment, Financial stress, Academic/work failure or poor performance",Dissatisfied,7,Rarely,Slightly stressed
+18-24,Male,Employee,Teaching,6.6,9,5.9,30-60 min,10,Moderate,2,Low,Yes,"Academic/work failure or poor performance, Financial stress, Arguing/conflict with someone",Satisfied,8,Rarely,Slightly stressed
+25-35,Female,Employee,Finance,7.6,8,1.8,1 hour,6,Moderate,10,Medium,No,None,Dissatisfied,2,Rarely,Slightly stressed
+18-24,Male,Employee,Administration,5.0,7,5.0,30-60 min,7,Moderate,1,Medium,Yes,Financial stress,Satisfied,5,Often,Highly stressed
+18-24,Male,Student,Law,8.2,2,3.5,30-60 min,4,Moderate,9,High,Yes,"Health-related stress, Financial stress, Arguing/conflict with someone",Satisfied,8,Rarely,Highly stressed
+18-24,Male,Student,Business,8.9,3,4.7,< 30 min,2,Hard,10,Medium,Yes,"Health-related stress, Bad weather",Dissatisfied,7,Never,Not stressed
+25-35,Male,Employee,Customer Service,7.3,6,4.5,30-60 min,10,Easy,4,Low,Yes,"Bad weather, Health-related stress, Transportation problem / car issue",Satisfied,9,Rarely,Slightly stressed
+18-24,Female,Student,Psychology,8.2,0,6.7,< 30 min,7,Hard,7,Medium,No,None,Satisfied,4,Rarely,Slightly stressed
+18-24,Male,Student,Education,5.5,0,6.4,< 30 min,4,Moderate,2,High,Yes,"Financial stress, Transportation problem / car issue",Satisfied,4,Often,Slightly stressed
+<18,Male,Employee,Customer Service,5.3,8,6.3,1 hour,6,Hard,6,High,Yes,"Financial stress, Bad weather",Dissatisfied,9,Never,Not stressed
+18-24,Female,Employee,Customer Service,5.3,8,1.1,30-60 min,10,Easy,10,Medium,Yes,"Transportation problem / car issue, Academic/work failure or poor performance, Financial stress",Dissatisfied,4,Often,Slightly stressed
+<18,Female,Neither,None,7.4,2,4.3,< 30 min,4,Moderate,1,Medium,Yes,"Personal disappointment, Financial stress, Bad weather",Satisfied,7,Rarely,Slightly stressed
+25-35,Male,Employee,Administration,7.9,7,4.0,1 hour,5,Moderate,10,Low,Yes,"Bad weather, Academic/work failure or poor performance",Dissatisfied,8,Rarely,Highly stressed
+18-24,Male,Employee,Customer Service,7.6,6,1.1,> 2 hours,8,Easy,8,Low,Yes,"Academic/work failure or poor performance, Health-related stress, Transportation problem / car issue",Satisfied,8,Never,Highly stressed
+25-35,Female,Employee,Administration,5.4,6,0.6,1 hour,8,Hard,4,Low,Yes,Arguing/conflict with someone,Satisfied,5,Almost always,Highly stressed
+25-35,Female,Student,Law,6.0,3,6.9,< 30 min,6,Hard,6,High,Yes,Arguing/conflict with someone,Dissatisfied,9,Often,Highly stressed
+18-24,Male,Student,Education,7.4,3,3.6,< 30 min,4,Moderate,5,High,Yes,"Health-related stress, Arguing/conflict with someone",Satisfied,4,Almost always,Slightly stressed
+36+,Male,Student,Engineering,6.2,3,1.2,1 hour,4,Moderate,2,High,Yes,"Bad weather, Academic/work failure or poor performance, Financial stress",Dissatisfied,3,Rarely,Not stressed
+18-24,Female,Both,Education,5.5,11,4.4,1 hour,9,Easy,2,Low,Yes,"Personal disappointment, Arguing/conflict with someone",Satisfied,6,Rarely,Slightly stressed
+36+,Male,Student,Biology,5.8,1,4.2,< 30 min,7,Moderate,6,High,Yes,"Transportation problem / car issue, Financial stress",Dissatisfied,3,Almost always,Highly stressed
+36+,Female,Both,Administration,4.6,9,4.2,30-60 min,11,Hard,9,Low,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone, Bad weather",Dissatisfied,9,Often,Highly stressed
+36+,Male,Student,Computer Science,6.0,3,5.8,< 30 min,7,Moderate,1,Medium,Yes,"Transportation problem / car issue, Bad weather, Arguing/conflict with someone",Satisfied,6,Rarely,Slightly stressed
+36+,Female,Employee,Administration,6.9,8,0.8,< 30 min,11,Moderate,5,High,No,None,Satisfied,1,Never,Highly stressed
+25-35,Male,Student,Law,7.3,0,1.5,1 hour,6,Easy,2,Low,Yes,"Transportation problem / car issue, Financial stress",Satisfied,8,Often,Highly stressed
+36+,Female,Employee,Freelancing,6.7,9,6.7,30-60 min,6,Easy,1,Low,Yes,"Transportation problem / car issue, Arguing/conflict with someone, Health-related stress",Satisfied,4,Almost always,Slightly stressed
+18-24,Male,Employee,Teaching,7.1,8,6.6,> 2 hours,6,Hard,10,Medium,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Satisfied,8,Rarely,Highly stressed
+25-35,Female,Employee,Other,5.5,7,7.0,1 hour,6,Moderate,7,Medium,Yes,"Financial stress, Bad weather, Arguing/conflict with someone",Satisfied,3,Often,Slightly stressed
+36+,Male,Student,Engineering,5.4,2,5.5,30-60 min,7,Easy,6,High,No,None,Dissatisfied,3,Almost always,Slightly stressed
+18-24,Female,Employee,Healthcare,6.9,8,5.3,30-60 min,9,Easy,7,High,Yes,Academic/work failure or poor performance,Satisfied,3,Almost always,Slightly stressed
+25-35,Male,Both,Freelancing,7.0,9,6.5,< 30 min,13,Moderate,7,High,No,None,Dissatisfied,3,Rarely,Not stressed
+18-24,Male,Employee,Administration,8.0,6,1.5,30-60 min,7,Moderate,8,Medium,Yes,"Bad weather, Transportation problem / car issue",Satisfied,4,Often,Not stressed
+18-24,Male,Student,Business,6.0,0,6.6,30-60 min,7,Easy,9,Low,No,None,Satisfied,2,Rarely,Slightly stressed
+18-24,Male,Employee,Customer Service,7.2,9,4.3,30-60 min,8,Moderate,1,High,Yes,"Personal disappointment, Bad weather, Arguing/conflict with someone",Satisfied,5,Often,Highly stressed
+25-35,Male,Both,Computer Science,5.4,9,3.9,< 30 min,8,Easy,5,High,Yes,"Academic/work failure or poor performance, Personal disappointment, Bad weather",Satisfied,7,Often,Slightly stressed
+36+,Male,Employee,Finance,7.2,8,3.7,30-60 min,9,Moderate,7,Medium,No,None,Dissatisfied,5,Often,Not stressed
+18-24,Female,Employee,IT,6.8,6,3.6,1 hour,11,Moderate,8,Medium,Yes,"Personal disappointment, Financial stress, Transportation problem / car issue",Dissatisfied,4,Often,Slightly stressed
+25-35,Female,Both,Teaching,6.6,11,1.7,30-60 min,10,Moderate,8,High,No,None,Satisfied,4,Often,Highly stressed
+36+,Female,Student,Biology,5.9,3,4.0,< 30 min,2,Easy,10,Medium,No,None,Dissatisfied,2,Never,Slightly stressed
+36+,Male,Employee,Other,7.9,7,1.8,30-60 min,7,Hard,6,High,Yes,"Bad weather, Personal disappointment",Dissatisfied,8,Rarely,Not stressed
+18-24,Female,Student,Business,5.7,1,5.9,< 30 min,5,Easy,2,Low,Yes,"Arguing/conflict with someone, Financial stress, Transportation problem / car issue",Satisfied,9,Rarely,Not stressed
+25-35,Female,Employee,Freelancing,6.2,7,1.6,30-60 min,10,Moderate,3,Medium,Yes,"Health-related stress, Bad weather, Transportation problem / car issue",Dissatisfied,3,Never,Highly stressed
+25-35,Female,Student,Arts,8.4,1,0.9,1 hour,3,Easy,8,Low,No,None,Dissatisfied,4,Often,Slightly stressed
+25-35,Female,Neither,None,8.8,0,6.9,30-60 min,1,Easy,9,Medium,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Male,Neither,None,7.8,1,5.3,1 hour,1,Moderate,2,High,Yes,"Financial stress, Arguing/conflict with someone, Academic/work failure or poor performance",Satisfied,8,Rarely,Highly stressed
+18-24,Female,Both,Arts,6.0,10,2.7,1 hour,9,Easy,3,High,Yes,"Health-related stress, Transportation problem / car issue, Bad weather",Satisfied,5,Rarely,Not stressed
+18-24,Female,Student,Medicine,7.8,3,2.3,< 30 min,2,Moderate,5,Medium,Yes,Academic/work failure or poor performance,Satisfied,3,Rarely,Not stressed
+18-24,Female,Student,Medicine,6.1,0,6.1,< 30 min,5,Moderate,4,Medium,Yes,"Bad weather, Arguing/conflict with someone",Satisfied,4,Rarely,Slightly stressed
+36+,Male,Employee,Teaching,8.0,7,3.6,30-60 min,11,Moderate,8,High,No,None,Dissatisfied,4,Rarely,Slightly stressed
+18-24,Female,Employee,Finance,7.6,9,6.5,< 30 min,9,Easy,4,Low,Yes,"Personal disappointment, Health-related stress",Dissatisfied,7,Rarely,Slightly stressed
+18-24,Female,Student,Engineering,6.7,3,5.0,< 30 min,7,Easy,6,Low,No,None,Dissatisfied,4,Almost always,Not stressed
+25-35,Female,Student,Computer Science,6.3,2,2.7,30-60 min,5,Easy,7,Low,Yes,"Bad weather, Academic/work failure or poor performance, Financial stress",Satisfied,5,Often,Slightly stressed
+25-35,Male,Student,Law,6.2,1,5.5,< 30 min,6,Hard,7,Medium,No,None,Dissatisfied,2,Rarely,Not stressed
+25-35,Female,Student,Business,8.5,0,7.0,< 30 min,5,Easy,3,High,Yes,"Personal disappointment, Academic/work failure or poor performance, Financial stress",Satisfied,6,Almost always,Not stressed
+18-24,Male,Employee,Teaching,5.7,7,3.2,< 30 min,10,Moderate,8,High,No,None,Satisfied,3,Often,Slightly stressed
+25-35,Male,Both,Education,4.0,11,4.7,1 hour,11,Hard,4,Medium,Yes,Bad weather,Satisfied,9,Almost always,Highly stressed
+<18,Female,Student,Arts,5.1,3,4.4,< 30 min,7,Easy,10,Medium,No,None,Satisfied,2,Almost always,Slightly stressed
+18-24,Male,Employee,Other,7.0,7,3.5,< 30 min,10,Easy,1,High,Yes,"Health-related stress, Transportation problem / car issue",Satisfied,8,Almost always,Not stressed
+18-24,Female,Employee,Other,6.9,7,0.9,30-60 min,8,Moderate,7,High,No,None,Satisfied,4,Rarely,Slightly stressed
+25-35,Female,Both,Engineering,4.1,10,4.2,> 2 hours,8,Hard,5,Low,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Personal disappointment",Dissatisfied,8,Rarely,Slightly stressed
+25-35,Female,Student,Law,7.1,3,1.1,30-60 min,3,Moderate,6,Medium,Yes,Personal disappointment,Satisfied,9,Often,Slightly stressed
+25-35,Male,Employee,IT,6.1,9,2.8,1 hour,11,Hard,1,Medium,No,None,Satisfied,4,Often,Slightly stressed
+<18,Male,Employee,Finance,7.3,8,2.0,1 hour,7,Moderate,7,High,Yes,Transportation problem / car issue,Dissatisfied,5,Rarely,Slightly stressed
+18-24,Male,Neither,None,8.1,0,3.7,< 30 min,2,Easy,5,Medium,Yes,"Bad weather, Transportation problem / car issue",Satisfied,4,Rarely,Slightly stressed
+18-24,Female,Both,Finance,6.9,11,6.9,1 hour,13,Easy,9,Low,No,None,Satisfied,1,Almost always,Highly stressed
+18-24,Female,Neither,None,7.3,1,2.1,< 30 min,1,Moderate,7,Low,Yes,Financial stress,Satisfied,7,Almost always,Not stressed
+18-24,Male,Employee,Administration,7.5,9,4.4,> 2 hours,11,Easy,8,Low,Yes,"Academic/work failure or poor performance, Arguing/conflict with someone",Satisfied,3,Often,Slightly stressed
+25-35,Female,Student,Law,5.7,2,3.3,< 30 min,6,Moderate,8,High,No,None,Dissatisfied,1,Rarely,Highly stressed
+18-24,Male,Student,Business,7.0,1,3.4,30-60 min,4,Moderate,1,Medium,Yes,"Bad weather, Arguing/conflict with someone",Satisfied,9,Rarely,Highly stressed
+36+,Male,Student,Computer Science,6.8,0,1.4,< 30 min,3,Moderate,8,High,Yes,Arguing/conflict with someone,Satisfied,6,Never,Highly stressed
+<18,Female,Student,Computer Science,5.4,3,5.3,< 30 min,6,Easy,1,Low,Yes,"Financial stress, Arguing/conflict with someone",Dissatisfied,9,Almost always,Not stressed
+25-35,Male,Student,Law,8.6,0,6.7,1 hour,4,Moderate,8,Low,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,4,Never,Slightly stressed
+25-35,Female,Student,Law,5.3,0,4.8,30-60 min,3,Easy,10,Medium,Yes,Transportation problem / car issue,Satisfied,7,Rarely,Slightly stressed
+<18,Male,Student,Law,7.7,3,0.6,< 30 min,2,Easy,6,Medium,No,None,Dissatisfied,1,Rarely,Slightly stressed
+25-35,Female,Employee,Freelancing,6.6,9,2.7,1 hour,8,Hard,2,Medium,No,None,Dissatisfied,1,Almost always,Slightly stressed
+25-35,Female,Employee,Other,5.1,7,3.4,< 30 min,6,Moderate,8,High,Yes,"Health-related stress, Financial stress",Satisfied,9,Rarely,Highly stressed
+36+,Male,Student,Arts,6.8,2,6.1,1 hour,4,Moderate,6,Medium,Yes,"Bad weather, Transportation problem / car issue",Satisfied,5,Rarely,Slightly stressed
+18-24,Male,Student,Education,7.1,3,5.7,30-60 min,7,Easy,7,Medium,No,None,Dissatisfied,3,Rarely,Slightly stressed
+25-35,Male,Employee,Finance,6.5,9,5.9,1 hour,5,Easy,10,High,Yes,Bad weather,Dissatisfied,4,Often,Slightly stressed
+25-35,Female,Employee,Teaching,7.8,6,0.6,< 30 min,11,Easy,9,Medium,No,None,Satisfied,1,Rarely,Slightly stressed
+36+,Male,Both,Computer Science,6.7,8,6.8,30-60 min,8,Moderate,2,Low,Yes,Bad weather,Dissatisfied,8,Often,Slightly stressed
+25-35,Male,Employee,Administration,5.6,9,0.7,1 hour,5,Easy,5,Medium,No,None,Satisfied,2,Often,Highly stressed
+18-24,Female,Both,Law,5.6,10,4.6,30-60 min,13,Moderate,1,Medium,No,None,Dissatisfied,4,Often,Highly stressed
+18-24,Female,Student,Arts,6.9,3,3.5,< 30 min,6,Moderate,7,Medium,No,None,Satisfied,3,Almost always,Highly stressed
+25-35,Male,Student,Biology,8.4,1,7.0,1 hour,2,Moderate,6,Medium,Yes,"Health-related stress, Academic/work failure or poor performance, Bad weather",Dissatisfied,9,Rarely,Not stressed
+18-24,Male,Employee,Customer Service,7.5,8,0.7,30-60 min,8,Moderate,9,Medium,No,None,Dissatisfied,2,Often,Not stressed
+18-24,Female,Employee,Teaching,5.9,8,2.1,< 30 min,8,Easy,5,Medium,Yes,"Arguing/conflict with someone, Personal disappointment, Health-related stress",Satisfied,4,Almost always,Slightly stressed
+18-24,Male,Neither,None,7.0,1,4.1,< 30 min,1,Hard,4,Medium,No,None,Satisfied,2,Often,Slightly stressed
+25-35,Female,Student,Arts,5.8,0,2.1,< 30 min,3,Hard,2,High,Yes,"Bad weather, Financial stress, Arguing/conflict with someone",Satisfied,4,Rarely,Slightly stressed
+36+,Male,Student,Education,6.3,0,4.2,30-60 min,2,Hard,3,Low,No,None,Satisfied,1,Almost always,Highly stressed
+18-24,Female,Student,Education,7.2,3,6.7,30-60 min,4,Moderate,3,High,No,None,Satisfied,3,Almost always,Highly stressed
+18-24,Female,Both,Business,6.5,9,5.6,1 hour,14,Moderate,3,Medium,No,None,Satisfied,3,Often,Not stressed
+18-24,Male,Employee,Teaching,7.8,6,5.7,> 2 hours,10,Easy,5,Medium,Yes,Transportation problem / car issue,Dissatisfied,9,Often,Highly stressed
+25-35,Female,Employee,Healthcare,7.0,9,2.7,> 2 hours,5,Moderate,1,Medium,Yes,Health-related stress,Satisfied,6,Often,Highly stressed
+18-24,Male,Employee,IT,5.6,6,1.9,1 hour,10,Moderate,1,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Female,Employee,Finance,5.7,9,4.7,< 30 min,7,Easy,5,Medium,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Female,Student,Psychology,5.5,0,0.8,30-60 min,5,Easy,5,Medium,No,None,Dissatisfied,3,Almost always,Slightly stressed
+18-24,Male,Student,Psychology,8.7,3,3.4,< 30 min,4,Moderate,10,High,Yes,"Bad weather, Arguing/conflict with someone, Transportation problem / car issue",Satisfied,9,Almost always,Slightly stressed
+18-24,Male,Student,Psychology,5.9,3,5.4,< 30 min,6,Hard,6,High,Yes,"Arguing/conflict with someone, Bad weather",Dissatisfied,6,Often,Not stressed
+25-35,Female,Both,Healthcare,4.4,8,2.7,30-60 min,13,Hard,6,High,No,None,Satisfied,5,Often,Highly stressed
+18-24,Male,Employee,Other,6.4,6,1.8,1 hour,8,Hard,9,Medium,Yes,"Bad weather, Health-related stress, Transportation problem / car issue",Satisfied,3,Often,Not stressed
+<18,Female,Neither,None,7.0,1,0.6,1 hour,4,Easy,2,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Male,Student,Education,6.9,1,2.6,30-60 min,4,Moderate,8,High,Yes,Financial stress,Dissatisfied,7,Never,Slightly stressed
+25-35,Male,Employee,Engineering,5.4,8,2.0,1 hour,9,Moderate,3,High,Yes,"Health-related stress, Academic/work failure or poor performance",Satisfied,5,Often,Slightly stressed
+<18,Male,Both,Other,4.3,9,2.0,30-60 min,9,Hard,9,High,Yes,"Academic/work failure or poor performance, Bad weather",Satisfied,3,Almost always,Highly stressed
+18-24,Female,Employee,Finance,5.2,9,2.7,30-60 min,8,Hard,6,Low,No,None,Satisfied,3,Rarely,Slightly stressed
+18-24,Male,Employee,IT,5.4,7,6.8,1 hour,10,Moderate,7,Medium,No,None,Dissatisfied,2,Often,Slightly stressed
+25-35,Male,Student,Psychology,6.9,3,4.0,< 30 min,2,Moderate,9,Medium,Yes,"Transportation problem / car issue, Financial stress",Satisfied,9,Often,Slightly stressed
+18-24,Male,Employee,Engineering,7.2,7,1.9,> 2 hours,6,Easy,3,Low,No,None,Satisfied,5,Almost always,Highly stressed
+18-24,Female,Student,Medicine,5.1,0,5.3,< 30 min,5,Easy,7,Medium,No,None,Satisfied,3,Often,Not stressed
+<18,Male,Both,Engineering,6.5,9,1.9,< 30 min,10,Hard,10,Medium,No,None,Dissatisfied,3,Rarely,Not stressed
+18-24,Male,Employee,Finance,7.2,8,6.3,< 30 min,11,Hard,3,High,No,None,Satisfied,1,Rarely,Not stressed
+18-24,Female,Employee,Other,7.3,7,4.6,1 hour,8,Moderate,1,High,Yes,"Bad weather, Personal disappointment",Satisfied,6,Almost always,Slightly stressed
+18-24,Male,Employee,Freelancing,6.4,7,4.1,1 hour,9,Moderate,6,High,Yes,"Arguing/conflict with someone, Transportation problem / car issue, Academic/work failure or poor performance",Satisfied,8,Rarely,Slightly stressed
+25-35,Male,Both,Law,6.6,9,4.6,1 hour,8,Easy,4,Medium,Yes,Transportation problem / car issue,Satisfied,5,Often,Not stressed
+<18,Female,Student,Computer Science,6.6,1,1.0,1 hour,7,Hard,7,Medium,Yes,Arguing/conflict with someone,Dissatisfied,6,Almost always,Slightly stressed
+18-24,Female,Employee,Finance,7.6,8,1.3,> 2 hours,10,Easy,2,Medium,Yes,"Financial stress, Bad weather, Arguing/conflict with someone",Satisfied,5,Almost always,Slightly stressed
+25-35,Female,Student,Arts,5.7,2,1.4,< 30 min,7,Easy,8,High,Yes,Financial stress,Satisfied,6,Often,Not stressed
+18-24,Male,Employee,Other,8.0,8,1.1,> 2 hours,5,Easy,8,Medium,Yes,"Financial stress, Transportation problem / car issue",Satisfied,4,Often,Slightly stressed
+36+,Male,Both,Engineering,4.7,10,6.4,30-60 min,11,Moderate,2,Medium,No,None,Satisfied,4,Never,Highly stressed
+18-24,Female,Employee,Healthcare,6.4,8,3.1,1 hour,5,Easy,3,Medium,Yes,"Academic/work failure or poor performance, Health-related stress",Dissatisfied,5,Rarely,Slightly stressed
+36+,Female,Student,Business,7.2,1,5.4,1 hour,6,Hard,4,Medium,No,None,Satisfied,5,Never,Not stressed
+18-24,Female,Student,Psychology,8.4,2,5.5,1 hour,6,Hard,2,Low,No,None,Satisfied,4,Rarely,Slightly stressed
+36+,Female,Neither,None,7.6,2,5.1,30-60 min,4,Hard,1,High,No,None,Dissatisfied,4,Rarely,Slightly stressed
+36+,Male,Employee,IT,5.6,6,6.4,1 hour,5,Easy,6,Medium,No,None,Satisfied,3,Rarely,Slightly stressed
+25-35,Female,Employee,Other,6.6,7,1.4,30-60 min,8,Moderate,9,High,No,None,Satisfied,1,Almost always,Highly stressed
+25-35,Female,Student,Medicine,8.7,1,4.3,< 30 min,4,Hard,4,High,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,4,Rarely,Not stressed
+18-24,Female,Student,Business,6.4,2,4.5,< 30 min,6,Moderate,2,Medium,Yes,Arguing/conflict with someone,Satisfied,6,Often,Slightly stressed
+25-35,Male,Student,Education,6.0,2,6.9,30-60 min,4,Easy,8,Medium,No,None,Satisfied,2,Rarely,Slightly stressed
+18-24,Female,Student,Business,7.6,1,4.7,< 30 min,7,Moderate,7,Medium,No,None,Dissatisfied,2,Often,Highly stressed
+25-35,Male,Student,Arts,8.9,0,5.8,1 hour,6,Easy,2,High,Yes,"Financial stress, Transportation problem / car issue",Dissatisfied,8,Often,Slightly stressed
+25-35,Female,Both,Computer Science,5.2,8,4.5,> 2 hours,8,Moderate,1,Medium,Yes,"Personal disappointment, Arguing/conflict with someone, Academic/work failure or poor performance",Satisfied,7,Rarely,Not stressed
+<18,Female,Student,Engineering,8.7,1,5.8,1 hour,4,Easy,4,High,No,None,Dissatisfied,5,Never,Not stressed
+25-35,Female,Neither,None,6.5,2,0.9,< 30 min,4,Moderate,7,Medium,Yes,Personal disappointment,Satisfied,8,Often,Slightly stressed
+25-35,Female,Student,Engineering,7.8,0,1.5,> 2 hours,7,Moderate,4,Low,Yes,"Arguing/conflict with someone, Bad weather, Personal disappointment",Satisfied,6,Often,Not stressed
+18-24,Female,Both,Law,4.2,8,1.1,30-60 min,9,Moderate,1,Medium,Yes,Arguing/conflict with someone,Dissatisfied,8,Rarely,Highly stressed
+18-24,Male,Employee,IT,7.8,8,6.4,< 30 min,9,Hard,5,Medium,Yes,"Personal disappointment, Academic/work failure or poor performance",Satisfied,5,Rarely,Slightly stressed
+36+,Female,Employee,IT,7.2,6,3.9,30-60 min,8,Moderate,7,Medium,Yes,"Financial stress, Bad weather, Personal disappointment",Dissatisfied,3,Almost always,Highly stressed
+25-35,Male,Student,Education,7.3,2,5.7,30-60 min,7,Moderate,7,High,Yes,"Transportation problem / car issue, Bad weather, Health-related stress",Dissatisfied,9,Rarely,Slightly stressed
+18-24,Female,Student,Biology,7.4,3,3.2,< 30 min,5,Moderate,5,Medium,Yes,Health-related stress,Satisfied,3,Often,Not stressed
+18-24,Male,Student,Computer Science,7.8,0,2.3,30-60 min,4,Easy,2,Low,Yes,"Bad weather, Financial stress, Arguing/conflict with someone",Dissatisfied,6,Almost always,Not stressed
+25-35,Male,Student,Biology,7.6,2,6.2,< 30 min,7,Easy,10,Low,Yes,"Financial stress, Academic/work failure or poor performance",Satisfied,5,Often,Highly stressed
+25-35,Male,Employee,Engineering,6.8,9,3.9,30-60 min,5,Easy,4,Low,Yes,Bad weather,Dissatisfied,5,Almost always,Slightly stressed
+25-35,Female,Employee,Freelancing,7.2,7,6.1,> 2 hours,6,Moderate,7,Medium,No,None,Satisfied,1,Often,Slightly stressed
+18-24,Female,Neither,None,8.0,0,5.3,30-60 min,3,Easy,9,Medium,No,None,Satisfied,4,Rarely,Slightly stressed
+18-24,Male,Student,Law,7.2,1,0.9,30-60 min,5,Moderate,10,High,Yes,"Personal disappointment, Arguing/conflict with someone, Bad weather",Satisfied,7,Rarely,Slightly stressed
+25-35,Female,Student,Psychology,6.2,3,2.1,< 30 min,6,Moderate,6,Low,No,None,Satisfied,5,Often,Highly stressed
+<18,Female,Student,Business,6.2,0,3.2,30-60 min,4,Easy,9,Medium,No,None,Satisfied,2,Almost always,Not stressed
+18-24,Male,Both,Freelancing,6.3,10,3.6,1 hour,12,Easy,4,High,No,None,Satisfied,5,Rarely,Highly stressed
+18-24,Male,Student,Medicine,7.0,2,1.7,< 30 min,3,Moderate,1,Medium,No,None,Satisfied,2,Almost always,Slightly stressed
+25-35,Male,Student,Biology,6.0,1,5.0,30-60 min,2,Hard,2,Low,No,None,Dissatisfied,3,Often,Slightly stressed
+18-24,Male,Student,Computer Science,8.4,1,6.5,30-60 min,7,Hard,2,Low,Yes,"Health-related stress, Bad weather",Dissatisfied,4,Often,Slightly stressed
+25-35,Male,Both,Healthcare,6.8,9,0.8,1 hour,12,Hard,9,Medium,No,None,Satisfied,2,Rarely,Highly stressed
+18-24,Female,Employee,Administration,5.9,6,4.6,< 30 min,5,Hard,3,High,Yes,"Bad weather, Personal disappointment, Health-related stress",Satisfied,7,Never,Not stressed
+18-24,Male,Both,Biology,6.4,8,5.2,30-60 min,13,Easy,4,Medium,No,None,Satisfied,3,Never,Highly stressed
+25-35,Male,Student,Business,6.3,3,4.8,< 30 min,7,Hard,7,Medium,Yes,Academic/work failure or poor performance,Satisfied,5,Often,Highly stressed
+25-35,Male,Student,Arts,5.2,0,5.2,1 hour,6,Moderate,2,Low,Yes,Bad weather,Satisfied,9,Often,Not stressed
+25-35,Female,Employee,Other,7.6,6,3.3,1 hour,9,Moderate,5,Medium,No,None,Satisfied,5,Often,Highly stressed
+25-35,Male,Employee,IT,6.9,6,4.8,< 30 min,6,Moderate,3,Low,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Satisfied,4,Often,Slightly stressed
+25-35,Female,Both,Other,6.8,10,6.6,30-60 min,10,Moderate,5,Medium,Yes,Health-related stress,Satisfied,6,Never,Highly stressed
+25-35,Male,Employee,Finance,7.0,7,0.5,30-60 min,6,Moderate,5,High,No,None,Dissatisfied,1,Never,Not stressed
+18-24,Male,Both,Arts,4.0,11,5.4,30-60 min,11,Easy,10,Medium,Yes,"Transportation problem / car issue, Bad weather, Personal disappointment",Satisfied,6,Often,Slightly stressed
+<18,Female,Student,Psychology,5.5,3,0.6,< 30 min,6,Moderate,7,Medium,Yes,"Arguing/conflict with someone, Bad weather",Dissatisfied,5,Never,Not stressed
+18-24,Female,Student,Psychology,5.4,3,5.3,< 30 min,7,Moderate,6,Medium,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Dissatisfied,3,Often,Slightly stressed
+18-24,Female,Both,Psychology,4.6,11,2.7,30-60 min,13,Moderate,8,High,No,None,Satisfied,2,Often,Highly stressed
+25-35,Female,Employee,Healthcare,5.7,8,1.8,> 2 hours,9,Easy,2,High,Yes,"Personal disappointment, Academic/work failure or poor performance",Satisfied,3,Often,Slightly stressed
+25-35,Male,Student,Medicine,8.1,2,3.1,30-60 min,6,Easy,2,Low,Yes,"Bad weather, Transportation problem / car issue",Dissatisfied,3,Almost always,Highly stressed
+25-35,Male,Student,Engineering,6.3,2,4.0,< 30 min,2,Easy,6,High,Yes,"Financial stress, Academic/work failure or poor performance, Bad weather",Satisfied,6,Rarely,Slightly stressed
+18-24,Female,Both,Other,5.0,9,3.8,> 2 hours,12,Easy,9,Medium,No,None,Satisfied,4,Rarely,Slightly stressed
+18-24,Female,Student,Computer Science,6.4,2,1.9,30-60 min,4,Easy,4,Medium,Yes,Personal disappointment,Satisfied,8,Almost always,Slightly stressed
+18-24,Female,Student,Business,7.0,3,6.6,30-60 min,4,Easy,2,High,Yes,"Bad weather, Arguing/conflict with someone, Transportation problem / car issue",Dissatisfied,8,Often,Slightly stressed
+<18,Female,Student,Medicine,8.9,3,1.5,< 30 min,6,Easy,3,High,No,None,Dissatisfied,1,Often,Slightly stressed
+25-35,Female,Student,Computer Science,5.2,1,2.6,30-60 min,2,Easy,7,Medium,Yes,"Health-related stress, Arguing/conflict with someone, Transportation problem / car issue",Satisfied,3,Rarely,Slightly stressed
+18-24,Male,Neither,None,6.5,2,1.2,30-60 min,4,Easy,3,Low,Yes,"Personal disappointment, Bad weather, Financial stress",Dissatisfied,3,Almost always,Not stressed
+36+,Male,Both,Finance,4.9,10,7.0,30-60 min,9,Easy,7,High,No,None,Satisfied,1,Rarely,Not stressed
+18-24,Male,Employee,Other,5.9,8,4.5,< 30 min,9,Moderate,7,Low,Yes,"Academic/work failure or poor performance, Financial stress",Satisfied,4,Never,Not stressed
+18-24,Female,Student,Computer Science,9.0,1,1.3,30-60 min,7,Easy,2,Medium,Yes,Financial stress,Satisfied,3,Often,Slightly stressed
+18-24,Male,Student,Business,5.1,0,1.7,1 hour,5,Moderate,1,High,Yes,Personal disappointment,Dissatisfied,8,Rarely,Slightly stressed
+18-24,Male,Employee,IT,5.5,8,1.9,1 hour,6,Easy,2,High,Yes,"Arguing/conflict with someone, Transportation problem / car issue",Dissatisfied,9,Never,Highly stressed
+36+,Male,Employee,IT,6.6,7,1.5,1 hour,11,Easy,7,Medium,Yes,Bad weather,Satisfied,4,Rarely,Highly stressed
+18-24,Male,Employee,Customer Service,7.0,7,6.0,30-60 min,11,Moderate,7,Low,No,None,Dissatisfied,4,Almost always,Slightly stressed
+25-35,Female,Student,Business,8.2,3,5.5,1 hour,5,Easy,8,Medium,Yes,"Financial stress, Personal disappointment, Health-related stress",Satisfied,3,Often,Slightly stressed
+18-24,Male,Student,Biology,7.3,0,5.7,> 2 hours,5,Easy,9,Medium,No,None,Satisfied,2,Often,Slightly stressed
+25-35,Male,Employee,Healthcare,7.9,9,5.5,> 2 hours,6,Easy,7,Low,Yes,"Bad weather, Transportation problem / car issue, Financial stress",Satisfied,7,Almost always,Slightly stressed
+25-35,Male,Employee,Customer Service,6.5,7,5.8,1 hour,9,Easy,7,Low,No,None,Dissatisfied,3,Often,Slightly stressed
+36+,Female,Student,Education,8.2,2,3.8,< 30 min,7,Easy,8,Medium,Yes,"Academic/work failure or poor performance, Bad weather, Arguing/conflict with someone",Dissatisfied,6,Almost always,Slightly stressed
+18-24,Female,Student,Arts,8.3,1,2.7,> 2 hours,3,Moderate,3,High,No,None,Satisfied,3,Rarely,Not stressed
+18-24,Female,Student,Arts,8.2,0,3.9,30-60 min,5,Easy,4,Medium,No,None,Dissatisfied,1,Almost always,Slightly stressed
+36+,Female,Both,Customer Service,5.0,11,5.4,< 30 min,11,Moderate,10,Medium,No,None,Dissatisfied,2,Never,Slightly stressed
+36+,Female,Employee,Administration,6.2,8,5.8,30-60 min,10,Moderate,8,Medium,Yes,"Health-related stress, Financial stress, Personal disappointment",Satisfied,5,Often,Not stressed
+36+,Female,Employee,Teaching,6.0,9,2.4,30-60 min,5,Moderate,10,Medium,Yes,Financial stress,Satisfied,4,Often,Slightly stressed
+18-24,Male,Student,Education,7.6,3,4.7,< 30 min,3,Easy,2,High,No,None,Satisfied,2,Often,Slightly stressed
+18-24,Female,Student,Psychology,6.5,3,2.0,30-60 min,2,Easy,9,Medium,Yes,"Personal disappointment, Transportation problem / car issue, Financial stress",Satisfied,6,Often,Slightly stressed
+18-24,Male,Employee,Finance,7.4,6,6.6,30-60 min,7,Moderate,7,Low,Yes,Bad weather,Satisfied,7,Almost always,Highly stressed
+36+,Male,Employee,Finance,7.1,7,6.5,1 hour,10,Easy,8,Medium,No,None,Satisfied,3,Often,Highly stressed
+<18,Female,Both,Healthcare,6.3,11,1.2,< 30 min,8,Easy,2,Medium,No,None,Dissatisfied,4,Often,Highly stressed
+25-35,Male,Student,Business,6.8,0,4.6,< 30 min,5,Moderate,2,Low,No,None,Satisfied,4,Often,Highly stressed
+18-24,Female,Employee,Healthcare,5.3,6,3.4,< 30 min,6,Easy,10,High,Yes,"Academic/work failure or poor performance, Transportation problem / car issue",Satisfied,6,Rarely,Slightly stressed
+18-24,Male,Student,Engineering,5.4,2,3.1,1 hour,7,Moderate,8,Low,No,None,Satisfied,4,Often,Slightly stressed
+<18,Male,Student,Law,6.5,0,3.9,30-60 min,5,Easy,5,Low,Yes,"Arguing/conflict with someone, Financial stress",Satisfied,6,Often,Slightly stressed
+36+,Female,Both,Healthcare,5.9,8,2.3,> 2 hours,12,Easy,7,High,Yes,Health-related stress,Dissatisfied,3,Often,Highly stressed
+25-35,Male,Student,Business,8.4,0,1.9,< 30 min,3,Moderate,7,High,Yes,"Bad weather, Personal disappointment, Transportation problem / car issue",Dissatisfied,4,Rarely,Highly stressed
+25-35,Male,Neither,None,7.0,0,4.2,< 30 min,3,Easy,1,Medium,No,None,Satisfied,4,Never,Highly stressed
+36+,Female,Employee,Engineering,5.6,7,3.0,> 2 hours,10,Easy,7,Medium,Yes,"Health-related stress, Bad weather",Satisfied,4,Often,Highly stressed
+18-24,Female,Employee,Freelancing,7.2,7,3.1,1 hour,11,Moderate,5,Low,Yes,Arguing/conflict with someone,Satisfied,8,Often,Highly stressed
+36+,Female,Employee,Healthcare,5.2,7,2.8,1 hour,5,Moderate,1,Medium,Yes,Bad weather,Satisfied,5,Often,Slightly stressed
+18-24,Male,Employee,Teaching,6.6,7,6.2,< 30 min,9,Easy,4,Low,Yes,Financial stress,Satisfied,8,Rarely,Not stressed
+18-24,Male,Student,Law,5.1,0,3.4,1 hour,3,Hard,10,Medium,No,None,Satisfied,3,Often,Highly stressed
+<18,Male,Student,Biology,5.9,0,3.0,1 hour,2,Easy,5,Low,Yes,"Bad weather, Arguing/conflict with someone, Academic/work failure or poor performance",Dissatisfied,9,Almost always,Slightly stressed
+25-35,Female,Student,Biology,7.8,2,1.7,< 30 min,7,Moderate,8,Low,Yes,"Academic/work failure or poor performance, Personal disappointment, Financial stress",Dissatisfied,8,Often,Slightly stressed
+25-35,Male,Neither,None,7.2,0,1.9,1 hour,4,Easy,8,Medium,No,None,Dissatisfied,2,Rarely,Slightly stressed
+18-24,Female,Employee,Finance,7.4,9,5.1,1 hour,10,Moderate,1,Medium,No,None,Dissatisfied,3,Rarely,Slightly stressed
+18-24,Male,Employee,Customer Service,7.1,9,4.4,30-60 min,10,Moderate,3,Low,Yes,"Personal disappointment, Financial stress",Dissatisfied,3,Almost always,Not stressed
+<18,Male,Student,Biology,8.6,3,5.4,< 30 min,7,Easy,5,Medium,Yes,"Personal disappointment, Academic/work failure or poor performance, Health-related stress",Satisfied,9,Almost always,Highly stressed
+18-24,Male,Student,Engineering,6.0,0,3.6,< 30 min,6,Easy,8,Medium,No,None,Satisfied,5,Never,Not stressed
+25-35,Male,Student,Biology,8.4,2,4.6,30-60 min,7,Hard,5,Medium,Yes,"Transportation problem / car issue, Bad weather, Financial stress",Satisfied,6,Often,Slightly stressed
+<18,Male,Student,Biology,7.5,3,4.2,< 30 min,6,Easy,10,Low,No,None,Satisfied,1,Almost always,Not stressed
+18-24,Female,Student,Law,5.6,3,6.6,30-60 min,3,Hard,8,Medium,Yes,"Transportation problem / car issue, Personal disappointment, Bad weather",Satisfied,8,Often,Slightly stressed
+36+,Male,Student,Computer Science,8.9,3,2.9,< 30 min,4,Easy,7,High,No,None,Dissatisfied,3,Often,Highly stressed
+18-24,Male,Both,Engineering,5.4,11,7.0,< 30 min,13,Moderate,9,Medium,Yes,Financial stress,Dissatisfied,7,Often,Slightly stressed
+25-35,Female,Student,Business,8.8,0,4.4,1 hour,3,Easy,4,Medium,Yes,Financial stress,Satisfied,6,Often,Not stressed
+25-35,Female,Student,Medicine,5.3,1,6.9,30-60 min,3,Easy,1,Medium,No,None,Satisfied,1,Often,Highly stressed
+36+,Male,Student,Medicine,5.7,1,1.6,< 30 min,3,Moderate,9,High,Yes,"Personal disappointment, Academic/work failure or poor performance, Transportation problem / car issue",Dissatisfied,6,Often,Slightly stressed
+18-24,Male,Student,Computer Science,5.6,3,5.2,< 30 min,2,Moderate,9,High,No,None,Satisfied,5,Rarely,Slightly stressed
+18-24,Female,Student,Computer Science,8.1,0,4.2,30-60 min,3,Hard,2,Medium,No,None,Dissatisfied,1,Often,Slightly stressed
+36+,Female,Student,Computer Science,7.1,1,2.2,30-60 min,6,Moderate,6,Low,Yes,Transportation problem / car issue,Satisfied,7,Rarely,Slightly stressed
+18-24,Female,Student,Psychology,8.1,2,4.0,< 30 min,5,Moderate,6,Medium,No,None,Dissatisfied,2,Never,Highly stressed
